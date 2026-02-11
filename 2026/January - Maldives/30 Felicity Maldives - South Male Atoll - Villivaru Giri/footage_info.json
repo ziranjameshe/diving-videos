@@ -1,0 +1,578 @@
+{
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791506689.619088_109501769813899.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 1005
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791507123.720861_141021769814329.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791507425.812115_204161769814631.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791507498.82055_220061769814705.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791507638.022153_251111769814842.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791507875.314477_297361769815081.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791507947.99141_313231769815152.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791508240.364556_359481769815448.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791508387.101246_375771769815592.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791692389.225739_47041769999594.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791692613.570585_77991769999820.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791692798.354663_93781770000006.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791734398.089863_32271770041603.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791734627.08068_93421770041833.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791734834.938321_169881770042039.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791734936.263904_185841770042142.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/791735076.207003_201581770042280.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/IMG_0611.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.8914651986715251
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/IMG_0612 copy.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 1.1344640137963142
+            }
+        },
+        "player_frame": 498
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/IMG_0613 copy.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 1.1344640137963142
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/IMG_0614 copy.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.8914651986715251
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/IMG_0615 copy.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.8914651986715251
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/IMG_0669.MOV": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/30 Felicity Maldives - South Male Atoll - Villivaru Giri/30 Felicity Maldives - South Male Atoll - Villivaru Giri/media/ScreenRecording_02-07-2026 01-36-14_1.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    }
+}
