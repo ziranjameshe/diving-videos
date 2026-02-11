@@ -1,0 +1,108 @@
+{
+    "/Users/james/Downloads/790975547.945083_120921769282759.MP4": {
+        "Clip1": {
+            "totalFrames": 4582,
+            "trimEnd": 4582,
+            "trimStart": 0,
+            "updateTime": 1769284250295
+        },
+        "default": {
+            "totalFrames": 4582,
+            "trimEnd": 4582,
+            "trimStart": 0,
+            "updateTime": 0
+        }
+    },
+    "/Users/james/Downloads/790975762.7147_155671769282971.MP4": {
+        "Clip1": {
+            "totalFrames": 1495,
+            "trimEnd": 1495,
+            "trimStart": 0,
+            "updateTime": 1769284250430
+        },
+        "default": {
+            "totalFrames": 1495,
+            "trimEnd": 1495,
+            "trimStart": 0,
+            "updateTime": 0
+        }
+    },
+    "/Users/james/Downloads/790975862.88588_173321769283070.MP4": {
+        "Clip1": {
+            "totalFrames": 1000,
+            "trimEnd": 1000,
+            "trimStart": 0,
+            "updateTime": 1769284250554
+        },
+        "default": {
+            "totalFrames": 1000,
+            "trimEnd": 1000,
+            "trimStart": 0,
+            "updateTime": 0
+        }
+    },
+    "/Users/james/Downloads/790975920.989386_190971769283128.MP4": {
+        "Clip1": {
+            "totalFrames": 3071,
+            "trimEnd": 3071,
+            "trimStart": 0,
+            "updateTime": 1769284250695
+        },
+        "default": {
+            "totalFrames": 3071,
+            "trimEnd": 3071,
+            "trimStart": 0,
+            "updateTime": 0
+        }
+    },
+    "/Users/james/Downloads/790976057.773099_225781769283266.MP4": {
+        "Clip1": {
+            "totalFrames": 2399,
+            "trimEnd": 2399,
+            "trimStart": 0,
+            "updateTime": 1769284250822
+        },
+        "default": {
+            "totalFrames": 2399,
+            "trimEnd": 2399,
+            "trimStart": 0,
+            "updateTime": 0
+        }
+    },
+    "/Users/james/Downloads/790976196.922306_277851769283403.MP4": {
+        "Clip1": {
+            "totalFrames": 4151,
+            "trimEnd": 4151,
+            "trimStart": 0,
+            "updateTime": 1769284251056
+        },
+        "default": {
+            "totalFrames": 4151,
+            "trimEnd": 4151,
+            "trimStart": 0,
+            "updateTime": 0
+        }
+    },
+    "/Users/james/Downloads/790976362.781991_295371769283568.MP4": {
+        "Clip1": {
+            "totalFrames": 1023,
+            "trimEnd": 1023,
+            "trimStart": 0,
+            "updateTime": 1769284251080
+        },
+        "default": {
+            "totalFrames": 1023,
+            "trimEnd": 1023,
+            "trimStart": 0,
+            "updateTime": 0
+        }
+    },
+    "/Users/james/Downloads/ScreenRecording_01-24-2026 20-31-55_1.MP4": {
+        "default": {
+            "totalFrames": 2081,
+            "trimEnd": 2081,
+            "trimStart": 0,
+            "updateTime": 0
+        }
+    }
+}

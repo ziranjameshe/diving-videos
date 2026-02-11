@@ -1,0 +1,111 @@
+[
+    {
+        "default": "3a0cdd97-6fc5-4df5-8b82-ccffdb318089",
+        "display_name": "790976362.781991_295371769283568.MP4",
+        "durations": 17.066666667,
+        "icon_type": 34,
+        "import_time": "1769284629830",
+        "paths": [
+            "/Users/james/Downloads/790976362.781991_295371769283568.MP4"
+        ],
+        "settings": [
+            "6367d6b3-27f7-4148-a88a-85019f7b0795"
+        ],
+        "uuid": "/Users/james/Downloads/790976362.781991_295371769283568.MP4"
+    },
+    {
+        "default": "402e88ce-5f16-436f-8e59-d944f2650671",
+        "display_name": "790976196.922306_277851769283403.MP4",
+        "durations": 69.185783333,
+        "icon_type": 34,
+        "import_time": "1769284630150",
+        "paths": [
+            "/Users/james/Downloads/790976196.922306_277851769283403.MP4"
+        ],
+        "settings": [
+            "49e18a47-3b92-4951-a369-1fbefeb1b529"
+        ],
+        "uuid": "/Users/james/Downloads/790976196.922306_277851769283403.MP4"
+    },
+    {
+        "default": "39ced112-ea43-4dfa-894a-57e5d93423c9",
+        "display_name": "790976057.773099_225781769283266.MP4",
+        "durations": 39.98995,
+        "icon_type": 34,
+        "import_time": "1769284630892",
+        "paths": [
+            "/Users/james/Downloads/790976057.773099_225781769283266.MP4"
+        ],
+        "settings": [
+            "c732226f-6f32-43c7-b164-941d287d6650"
+        ],
+        "uuid": "/Users/james/Downloads/790976057.773099_225781769283266.MP4"
+    },
+    {
+        "default": "d35fe43a-2411-4ab9-89bd-e328ee9387fb",
+        "display_name": "790975920.989386_190971769283128.MP4",
+        "durations": 51.184466667,
+        "icon_type": 34,
+        "import_time": "1769284631828",
+        "paths": [
+            "/Users/james/Downloads/790975920.989386_190971769283128.MP4"
+        ],
+        "settings": [
+            "8caff247-ef4b-4b85-802a-88449b9e683a"
+        ],
+        "uuid": "/Users/james/Downloads/790975920.989386_190971769283128.MP4"
+    },
+    {
+        "default": "f6d650f4-10ca-4391-8eb9-380e468c7082",
+        "display_name": "790975862.88588_173321769283070.MP4",
+        "durations": 16.683333333,
+        "icon_type": 34,
+        "import_time": "1769284632957",
+        "paths": [
+            "/Users/james/Downloads/790975862.88588_173321769283070.MP4"
+        ],
+        "settings": [
+            "2828fc70-9dda-4b47-970a-c6b20711fc2e"
+        ],
+        "uuid": "/Users/james/Downloads/790975862.88588_173321769283070.MP4"
+    },
+    {
+        "default": "e32b0140-a9ef-4e53-9b1e-4acc5b15a63d",
+        "display_name": "790975762.7147_155671769282971.MP4",
+        "durations": 24.9249,
+        "icon_type": 34,
+        "import_time": "1769284633760",
+        "paths": [
+            "/Users/james/Downloads/790975762.7147_155671769282971.MP4"
+        ],
+        "settings": [
+            "83698fad-f6f2-4f6a-83c5-b16fdebc6800"
+        ],
+        "uuid": "/Users/james/Downloads/790975762.7147_155671769282971.MP4"
+    },
+    {
+        "default": "643b487c-49af-4783-9eca-e500e3d70cc5",
+        "display_name": "790975547.945083_120921769282759.MP4",
+        "durations": 76.3763,
+        "icon_type": 34,
+        "import_time": "1769284634525",
+        "paths": [
+            "/Users/james/Downloads/790975547.945083_120921769282759.MP4"
+        ],
+        "settings": [
+            "d1bd4f2f-af44-4060-850f-aa9038b2e008"
+        ],
+        "uuid": "/Users/james/Downloads/790975547.945083_120921769282759.MP4"
+    },
+    {
+        "default": "2bec02e5-3a74-4194-ba4e-93838da01417",
+        "display_name": "ScreenRecording_01-24-2026 20-31-55_1.MP4",
+        "durations": 34.695,
+        "icon_type": 37,
+        "import_time": "1769286836594",
+        "paths": [
+            "/Users/james/Downloads/ScreenRecording_01-24-2026 20-31-55_1.MP4"
+        ],
+        "uuid": "/Users/james/Downloads/ScreenRecording_01-24-2026 20-31-55_1.MP4"
+    }
+]
