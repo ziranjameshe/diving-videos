@@ -1,0 +1,167 @@
+[
+    {
+        "default": "5345745b-3f8f-4cf2-a984-2e65adbec2d3",
+        "display_name": "790996748.082523_236211769304025.MP4",
+        "durations": 44.594550000000005,
+        "icon_type": 34,
+        "import_time": "1769362374818",
+        "paths": [
+            "/Users/james/Downloads/790996748.082523_236211769304025.MP4"
+        ],
+        "uuid": "/Users/james/Downloads/790996748.082523_236211769304025.MP4"
+    },
+    {
+        "default": "6b596ba9-43e7-4520-9688-51e6e3612126",
+        "display_name": "790997036.534135_286621769304243.MP4",
+        "durations": 7.190516667,
+        "icon_type": 34,
+        "import_time": "1769362375020",
+        "paths": [
+            "/Users/james/Downloads/790997036.534135_286621769304243.MP4"
+        ],
+        "uuid": "/Users/james/Downloads/790997036.534135_286621769304243.MP4"
+    },
+    {
+        "default": "7124b87c-df9f-44b1-9a06-091dff2e9393",
+        "display_name": "790997072.845781_320351769304282.MP4",
+        "durations": 31.28125,
+        "icon_type": 34,
+        "import_time": "1769362375235",
+        "paths": [
+            "/Users/james/Downloads/790997072.845781_320351769304282.MP4"
+        ],
+        "uuid": "/Users/james/Downloads/790997072.845781_320351769304282.MP4"
+    },
+    {
+        "default": "782d66a9-971e-4111-96c0-713e7ec70946",
+        "display_name": "790997218.513553_354161769304427.MP4",
+        "durations": 56.689966667,
+        "icon_type": 34,
+        "import_time": "1769362375421",
+        "paths": [
+            "/Users/james/Downloads/790997218.513553_354161769304427.MP4"
+        ],
+        "uuid": "/Users/james/Downloads/790997218.513553_354161769304427.MP4"
+    },
+    {
+        "default": "120d0ca7-c707-495a-9568-1d567ce3947b",
+        "display_name": "790997366.649877_387971769304573.MP4",
+        "durations": 52.235516667000006,
+        "icon_type": 34,
+        "import_time": "1769362375580",
+        "paths": [
+            "/Users/james/Downloads/790997366.649877_387971769304573.MP4"
+        ],
+        "uuid": "/Users/james/Downloads/790997366.649877_387971769304573.MP4"
+    },
+    {
+        "default": "678fa4a3-0bbb-497f-830c-8ccb12d9cfa6",
+        "display_name": "790997571.610138_421771769304777.MP4",
+        "durations": 3.2032,
+        "icon_type": 34,
+        "import_time": "1769362375724",
+        "paths": [
+            "/Users/james/Downloads/790997571.610138_421771769304777.MP4"
+        ],
+        "uuid": "/Users/james/Downloads/790997571.610138_421771769304777.MP4"
+    },
+    {
+        "default": "2493a176-904a-4782-be14-c0d5f2c8201c",
+        "display_name": "790997602.239634_455471769304807.MP4",
+        "durations": 13.713700000000001,
+        "icon_type": 34,
+        "import_time": "1769362375962",
+        "paths": [
+            "/Users/james/Downloads/790997602.239634_455471769304807.MP4"
+        ],
+        "uuid": "/Users/james/Downloads/790997602.239634_455471769304807.MP4"
+    },
+    {
+        "default": "cf44bbb2-ca8c-41d9-8e14-4db2b60aee3e",
+        "display_name": "ScreenRecording_01-25-2026 2.MP4",
+        "durations": 36.146666667,
+        "icon_type": 37,
+        "import_time": "1769362383783",
+        "paths": [
+            "/Users/james/Downloads/ScreenRecording_01-25-2026 2.MP4"
+        ],
+        "uuid": "/Users/james/Downloads/ScreenRecording_01-25-2026 2.MP4"
+    },
+    {
+        "default": "4c1d36eb-bc3a-4312-9852-d1b3e5d6594b",
+        "display_name": "IMG_0551.MOV",
+        "durations": 5.833333333,
+        "icon_type": 39,
+        "import_time": "1769362397704",
+        "paths": [
+            "/Users/james/Downloads/IMG_0551.MOV"
+        ],
+        "uuid": "/Users/james/Downloads/IMG_0551.MOV"
+    },
+    {
+        "default": "e3c6f87e-2166-4261-96ce-077256a6083d",
+        "display_name": "IMG_13.JPG",
+        "durations": 0,
+        "icon_type": 0,
+        "import_time": "1769362397708",
+        "paths": [
+            "/Users/james/Downloads/IMG_20260109_161427_034_01_13.JPG"
+        ],
+        "uuid": "/Users/james/Downloads/IMG_20260109_161427_034_01_13.JPG"
+    },
+    {
+        "default": "b88848d3-86e8-4306-af48-a36518766619",
+        "display_name": "IMG_0535.jpg",
+        "durations": 0,
+        "icon_type": 0,
+        "import_time": "1769362459678",
+        "paths": [
+            "/Users/james/Downloads/IMG_0535.jpg"
+        ],
+        "uuid": "/Users/james/Downloads/IMG_0535.jpg"
+    },
+    {
+        "default": "67f913e6-1ab6-4f30-95ab-42bdf3744267",
+        "display_name": "IMG_0545.jpg",
+        "durations": 0,
+        "icon_type": 0,
+        "import_time": "1769362482720",
+        "paths": [
+            "/Users/james/Downloads/IMG_0545.jpg"
+        ],
+        "uuid": "/Users/james/Downloads/IMG_0545.jpg"
+    },
+    {
+        "default": "c1396eb8-0bae-4431-9091-2198d3a8176f",
+        "display_name": "IMG_0570.jpg",
+        "durations": 0,
+        "icon_type": 0,
+        "import_time": "1769362512535",
+        "paths": [
+            "/Users/james/Downloads/IMG_0570.jpg"
+        ],
+        "uuid": "/Users/james/Downloads/IMG_0570.jpg"
+    },
+    {
+        "default": "55a5f27f-8c2b-422f-bbc8-3599516b6d2b",
+        "display_name": "IMG_0572.jpg",
+        "durations": 0,
+        "icon_type": 0,
+        "import_time": "1769362528582",
+        "paths": [
+            "/Users/james/Downloads/IMG_0572.jpg"
+        ],
+        "uuid": "/Users/james/Downloads/IMG_0572.jpg"
+    },
+    {
+        "default": "7e59d15f-a88f-4551-8a6a-991f9a1c00d5",
+        "display_name": "IMG_0574.jpg",
+        "durations": 0,
+        "icon_type": 0,
+        "import_time": "1769362544772",
+        "paths": [
+            "/Users/james/Downloads/IMG_0574.jpg"
+        ],
+        "uuid": "/Users/james/Downloads/IMG_0574.jpg"
+    }
+]

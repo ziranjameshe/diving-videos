@@ -1,0 +1,362 @@
+{
+    "/Users/james/Downloads/790996748.082523_236211769304025.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 1192
+    },
+    "/Users/james/Downloads/790997036.534135_286621769304243.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Users/james/Downloads/790997072.845781_320351769304282.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 1305
+    },
+    "/Users/james/Downloads/790997218.513553_354161769304427.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 480
+    },
+    "/Users/james/Downloads/790997366.649877_387971769304573.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 1056
+    },
+    "/Users/james/Downloads/790997571.610138_421771769304777.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 110
+    },
+    "/Users/james/Downloads/790997602.239634_455471769304807.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 518
+    },
+    "/Users/james/Downloads/IMG_0535.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.8914651986715251
+            }
+        },
+        "player_frame": 616
+    },
+    "/Users/james/Downloads/IMG_0545.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 1.1344640137963142
+            }
+        },
+        "player_frame": 0
+    },
+    "/Users/james/Downloads/IMG_0551.MOV": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 128
+    },
+    "/Users/james/Downloads/IMG_0570.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.8914651986715251
+            }
+        },
+        "player_frame": 635
+    },
+    "/Users/james/Downloads/IMG_0572.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.8914651986715251
+            }
+        },
+        "player_frame": 606
+    },
+    "/Users/james/Downloads/IMG_0574.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 1.1344640137963142
+            }
+        },
+        "player_frame": 547
+    },
+    "/Users/james/Downloads/IMG_20260109_161427_034_01_13.JPG": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 528
+    },
+    "/Users/james/Downloads/ScreenRecording_01-25-2026 2.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 1366
+    }
+}
