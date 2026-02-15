@@ -1,5 +1,53 @@
 {
-    "/Volumes/LaCie/2026/January - Maldives/34 Felicity Maldives - South Ari Atoll - Seventh Heaven (missed the reef)/IMG_20260113_071220_154.jpg": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_121152_175.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 508
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_121358_176.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 401
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_121601_177.jpg": {
         "camera_transform": {
             "distance": 0.8,
             "eulers": {
@@ -23,7 +71,7 @@
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/34 Felicity Maldives - South Ari Atoll - Seventh Heaven (missed the reef)/IMG_20260113_071228_155.jpg": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_121652_178.jpg": {
         "camera_transform": {
             "distance": 0.8,
             "eulers": {
@@ -47,7 +95,55 @@
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_082301_159.jpg": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_121701_179.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 58
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_121747_180.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 391
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_121831_181.jpg": {
         "camera_transform": {
             "distance": 0.8,
             "eulers": {
@@ -71,7 +167,7 @@
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_082317_160.jpg": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_122005_182.jpg": {
         "camera_transform": {
             "distance": 0.8,
             "eulers": {
@@ -95,7 +191,103 @@
         },
         "player_frame": 459
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_082554_163.jpg": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_122021_183.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 303
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_122140_184.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 655
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_122223_185.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 205
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_122324_187.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 557
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_125049_194.jpg": {
         "camera_transform": {
             "distance": 0.8,
             "eulers": {
@@ -119,7 +311,7 @@
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_082621_164.jpg": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_125055_195.jpg": {
         "camera_transform": {
             "distance": 0.8,
             "eulers": {
@@ -143,7 +335,7 @@
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_082629_165.jpg": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_125100_196.jpg": {
         "camera_transform": {
             "distance": 0.8,
             "eulers": {
@@ -165,9 +357,9 @@
                 "value": 0.9947662448110383
             }
         },
-        "player_frame": 0
+        "player_frame": 469
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_082646_166.jpg": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/IMG_20260113_125318_198.jpg": {
         "camera_transform": {
             "distance": 0.8,
             "eulers": {
@@ -189,177 +381,9 @@
                 "value": 0.9947662448110383
             }
         },
-        "player_frame": 0
+        "player_frame": 547
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_082724_167.jpg": {
-        "camera_transform": {
-            "distance": 0.8,
-            "eulers": {
-                "pitch": {
-                    "type": 0,
-                    "value": 0
-                },
-                "roll": {
-                    "type": 0,
-                    "value": 0
-                },
-                "yaw": {
-                    "type": 0,
-                    "value": 0
-                }
-            },
-            "fov": {
-                "type": 0,
-                "value": 0.9947662448110383
-            }
-        },
-        "player_frame": 0
-    },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_082841_168.jpg": {
-        "camera_transform": {
-            "distance": 0.8,
-            "eulers": {
-                "pitch": {
-                    "type": 0,
-                    "value": 0
-                },
-                "roll": {
-                    "type": 0,
-                    "value": 0
-                },
-                "yaw": {
-                    "type": 0,
-                    "value": 0
-                }
-            },
-            "fov": {
-                "type": 0,
-                "value": 0.9947662448110383
-            }
-        },
-        "player_frame": 0
-    },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_082944_169.jpg": {
-        "camera_transform": {
-            "distance": 0.8,
-            "eulers": {
-                "pitch": {
-                    "type": 0,
-                    "value": 0
-                },
-                "roll": {
-                    "type": 0,
-                    "value": 0
-                },
-                "yaw": {
-                    "type": 0,
-                    "value": 0
-                }
-            },
-            "fov": {
-                "type": 0,
-                "value": 0.9947662448110383
-            }
-        },
-        "player_frame": 0
-    },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_083108_171.jpg": {
-        "camera_transform": {
-            "distance": 0.8,
-            "eulers": {
-                "pitch": {
-                    "type": 0,
-                    "value": 0
-                },
-                "roll": {
-                    "type": 0,
-                    "value": 0
-                },
-                "yaw": {
-                    "type": 0,
-                    "value": 0
-                }
-            },
-            "fov": {
-                "type": 0,
-                "value": 0.9947662448110383
-            }
-        },
-        "player_frame": 410
-    },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_083204_172.jpg": {
-        "camera_transform": {
-            "distance": 0.8,
-            "eulers": {
-                "pitch": {
-                    "type": 0,
-                    "value": 0
-                },
-                "roll": {
-                    "type": 0,
-                    "value": 0
-                },
-                "yaw": {
-                    "type": 0,
-                    "value": 0
-                }
-            },
-            "fov": {
-                "type": 0,
-                "value": 0.9947662448110383
-            }
-        },
-        "player_frame": 0
-    },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_083231_173.jpg": {
-        "camera_transform": {
-            "distance": 0.8,
-            "eulers": {
-                "pitch": {
-                    "type": 0,
-                    "value": 0
-                },
-                "roll": {
-                    "type": 0,
-                    "value": 0
-                },
-                "yaw": {
-                    "type": 0,
-                    "value": 0
-                }
-            },
-            "fov": {
-                "type": 0,
-                "value": 0.9947662448110383
-            }
-        },
-        "player_frame": 0
-    },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/IMG_20260113_083542_174.jpg": {
-        "camera_transform": {
-            "distance": 0.8,
-            "eulers": {
-                "pitch": {
-                    "type": 0,
-                    "value": 0
-                },
-                "roll": {
-                    "type": 0,
-                    "value": 0
-                },
-                "yaw": {
-                    "type": 0,
-                    "value": 0
-                }
-            },
-            "fov": {
-                "type": 0,
-                "value": 0.9947662448110383
-            }
-        },
-        "player_frame": 0
-    },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/media/792820485.610253_24881771127691.MP4": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/792821085.360869_124611771128291.MP4": {
         "camera_transform": {
             "distance": 0.6,
             "eulers": {
@@ -383,7 +407,7 @@
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/media/792820533.308004_37681771127737.MP4": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/792821179.74291_137141771128384.MP4": {
         "camera_transform": {
             "distance": 0.6,
             "eulers": {
@@ -407,7 +431,7 @@
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/media/792820619.204573_50481771127823.MP4": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/792821214.473014_149671771128419.MP4": {
         "camera_transform": {
             "distance": 0.6,
             "eulers": {
@@ -431,7 +455,7 @@
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/media/792820655.849948_63281771127860.MP4": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/792821390.911577_186221771128595.MP4": {
         "camera_transform": {
             "distance": 0.6,
             "eulers": {
@@ -455,7 +479,7 @@
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/media/792820714.020322_76081771127917.MP4": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/792821457.400981_198771771128662.MP4": {
         "camera_transform": {
             "distance": 0.6,
             "eulers": {
@@ -479,7 +503,103 @@
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/media/IMG_0859 copy.jpg": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/792821564.225234_211321771128768.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/792821600.502618_223871771128804.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/792822449.341651_236421771129653.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/80159CA6-F830-4697-89D2-66C05FB7E8ED.JPEG": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/IMG_0861 copy.jpg": {
         "camera_transform": {
             "distance": 1,
             "eulers": {
@@ -498,12 +618,12 @@
             },
             "fov": {
                 "type": 0,
-                "value": 1.1344640137963142
+                "value": 0.8914651986715251
             }
         },
         "player_frame": 0
     },
-    "/Volumes/LaCie/2026/January - Maldives/35 Felicity Maldives - South Ari Atoll - Seventh Heaven/media/ScreenRecording_02-15-2026 16-58-30_1.MP4": {
+    "/Volumes/LaCie/2026/January - Maldives/36 Felicity Maldives - South Ari Atoll - Rangali Madivaru/media/ScreenRecording_02-16-2026 20-52-52_1.MP4": {
         "camera_transform": {
             "distance": 0.6,
             "eulers": {
