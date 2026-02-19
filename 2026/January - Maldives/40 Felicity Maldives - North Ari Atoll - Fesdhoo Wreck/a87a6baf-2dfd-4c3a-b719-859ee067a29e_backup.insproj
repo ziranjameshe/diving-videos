@@ -1,0 +1,3245 @@
+{
+    "aspectRatio": "16:9",
+    "autoFps": false,
+    "creationTime": "2026.02.19 00:45:16",
+    "definitionEdited": false,
+    "definitionTypeByUser": 0,
+    "enableEffects": true,
+    "fps": 60,
+    "frames": 17704,
+    "id": "a87a6baf-2dfd-4c3a-b719-859ee067a29e",
+    "isPanoramic": false,
+    "lastModifiedTime": "2026.02.19 01:04:55",
+    "lowQualityProxyType": -1,
+    "mainMagnetizable": true,
+    "markTrimEnd": 7884,
+    "markTrimIn": 0,
+    "markTrimVisible": false,
+    "name": "40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck",
+    "projectPath": "/Users/james/code/diving-videos/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck",
+    "tracks": [
+        {
+            "audible": true,
+            "clips": [
+                {
+                    "has_set_play_rate_manually": false,
+                    "id": "49cec86b-1ec4-452e-8cb2-c4efc644f46d",
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "name": "",
+                    "online": true,
+                    "original_left_trim": 0,
+                    "original_right_trim": -135,
+                    "original_total_frames": 0,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "0A1EF012-4031-4EC4-8A2B-24F30DBF2382",
+                    "rightTrim": -135,
+                    "rotation": 0,
+                    "roughTrimmed": false,
+                    "scale": 1,
+                    "sourceFrames": 180,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": -315,
+                    "source_right_trim_double": -315,
+                    "source_total_frames": 0,
+                    "srcId": "",
+                    "startFrame": 86,
+                    "state": 0,
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "texts": [
+                        {
+                            "color": "#ffffff",
+                            "font": "Gilroy [Gilroy-SemiBold]",
+                            "index": 0,
+                            "text": "Dive 40 - Felicity Maldives - North Ari Atoll - Fesdhoo Wreck"
+                        },
+                        {
+                            "color": "#ffffff",
+                            "font": "Noto Sans [NotoSans-Bold]",
+                            "index": 1,
+                            "text": "06"
+                        },
+                        {
+                            "color": "#ffffff",
+                            "font": "Gilroy [Gilroy-SemiBold]",
+                            "index": 2,
+                            "text": "Wednesday, 14th of January 2026"
+                        },
+                        {
+                            "color": "#ffffff",
+                            "font": "Noto Sans [NotoSans-Bold]",
+                            "index": 3,
+                            "text": "15"
+                        }
+                    ],
+                    "type": 7,
+                    "url": "/Users/james/Documents/Insta360/Studio/Download/text/0A1EF012-4031-4EC4-8A2B-24F30DBF2382/config_package/0A1EF012-4031-4EC4-8A2B-24F30DBF2382/0A1EF012-4031-4EC4-8A2B-24F30DBF2382.3.compoundcaption",
+                    "x": 0,
+                    "y": 204
+                }
+            ],
+            "id": "94b73fb1-0ab5-4ed5-b89f-1b5cf625657d",
+            "locked": false,
+            "transitions": [
+            ],
+            "type": 3,
+            "visible": true
+        },
+        {
+            "audible": true,
+            "clips": [
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "audio_setting": {
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "camera_movement": {
+                        "camera_movement_models": [
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": ""
+                    },
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "head_track": {
+                        "head_track_list": [
+                        ]
+                    },
+                    "highlight_data": false,
+                    "id": "29e296c3-8d0b-4f39-8f6f-9d599e8769e8",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "793068986.448461_20681771376191.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 0,
+                    "original_total_frames": 7884,
+                    "play_rate_track": {
+                        "play_rate_list": [
+                            {
+                                "defaultFactor": 1,
+                                "endTime": 7884,
+                                "maxPlayRate": 1,
+                                "minPlayRate": 1,
+                                "name": "a2e472ff-26e8-4013-9b7e-5a9a8eb79e16",
+                                "originalEndTime": 7884,
+                                "originalStartTime": 0,
+                                "src_end_time": 7884,
+                                "src_original_end_time": 7884,
+                                "src_original_start_time": 0,
+                                "src_start_time": 0,
+                                "startTime": 0
+                            }
+                        ]
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 7884,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 0,
+                    "source_right_trim_double": 0,
+                    "source_total_frames": 7884,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": true,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 0,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/media/793068986.448461_20681771376191.MP4",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "audio_setting": {
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "camera_movement": {
+                        "camera_movement_models": [
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": ""
+                    },
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "head_track": {
+                        "head_track_list": [
+                        ]
+                    },
+                    "highlight_data": false,
+                    "id": "40f73c43-1fc5-4a78-a586-a34491188960",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "793069290.642279_31381771376496.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 0,
+                    "original_total_frames": 863,
+                    "play_rate_track": {
+                        "play_rate_list": [
+                            {
+                                "defaultFactor": 1,
+                                "endTime": 863,
+                                "maxPlayRate": 1,
+                                "minPlayRate": 1,
+                                "name": "30e356a1-27e9-4e02-9153-8d8d52e199d0",
+                                "originalEndTime": 863,
+                                "originalStartTime": 0,
+                                "src_end_time": 863,
+                                "src_original_end_time": 863,
+                                "src_original_start_time": 0,
+                                "src_start_time": 0,
+                                "startTime": 0
+                            }
+                        ]
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 863,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 0,
+                    "source_right_trim_double": 0,
+                    "source_total_frames": 863,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": true,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 7884,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/media/793069290.642279_31381771376496.MP4",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "audio_setting": {
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "camera_movement": {
+                        "camera_movement_models": [
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "5944d5a1-21c0-45ea-ba50-086db508f262"
+                    },
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "head_track": {
+                        "head_track_list": [
+                        ]
+                    },
+                    "highlight_data": false,
+                    "id": "2479158f-95dc-42f1-8862-36500e4b05ac",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "793069350.063111_42081771376554.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 6579,
+                    "original_total_frames": 10917,
+                    "play_rate_track": {
+                        "play_rate_list": [
+                            {
+                                "defaultFactor": 1,
+                                "endTime": 10917,
+                                "maxPlayRate": 1,
+                                "minPlayRate": 1,
+                                "name": "a8292d4e-ac4d-4926-b5a0-9adb650197ff",
+                                "originalEndTime": 10917,
+                                "originalStartTime": 0,
+                                "src_end_time": 10917,
+                                "src_original_end_time": 10917,
+                                "src_original_start_time": 0,
+                                "src_start_time": 0,
+                                "startTime": 0
+                            }
+                        ]
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 6579,
+                    "roughTrimmed": false,
+                    "sourceFrames": 10917,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 6579,
+                    "source_right_trim_double": 6579,
+                    "source_total_frames": 10917,
+                    "srcId": "5944d5a1-21c0-45ea-ba50-086db508f262",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": true,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 8747,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/media/793069350.063111_42081771376554.MP4",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "audio_setting": {
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "camera_movement": {
+                        "camera_movement_models": [
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": ""
+                    },
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "head_track": {
+                        "head_track_list": [
+                        ]
+                    },
+                    "highlight_data": false,
+                    "id": "7c7ce3de-f0a8-42ee-8679-639d54d98b2d",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "793069739.168652_52781771376943.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 0,
+                    "original_total_frames": 1300,
+                    "play_rate_track": {
+                        "play_rate_list": [
+                            {
+                                "defaultFactor": 1,
+                                "endTime": 1300,
+                                "maxPlayRate": 1,
+                                "minPlayRate": 1,
+                                "name": "2783b2e4-5267-4516-b9e1-74fd9cbe89db",
+                                "originalEndTime": 1300,
+                                "originalStartTime": 0,
+                                "src_end_time": 1300,
+                                "src_original_end_time": 1300,
+                                "src_original_start_time": 0,
+                                "src_start_time": 0,
+                                "startTime": 0
+                            }
+                        ]
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 1300,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 0,
+                    "source_right_trim_double": 0,
+                    "source_total_frames": 1300,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": true,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 13085,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/media/793069739.168652_52781771376943.MP4",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "audio_setting": {
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 271,
+                        "maxFadeOut": 271,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "camera_movement": {
+                        "camera_movement_models": [
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": ""
+                    },
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "head_track": {
+                        "head_track_list": [
+                        ]
+                    },
+                    "highlight_data": false,
+                    "id": "f6331db8-915e-4a83-adae-5bffc45ddcad",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "793069842.489574_73691771377046.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 0,
+                    "original_total_frames": 542,
+                    "play_rate_track": {
+                        "play_rate_list": [
+                            {
+                                "defaultFactor": 1,
+                                "endTime": 542,
+                                "maxPlayRate": 1,
+                                "minPlayRate": 1,
+                                "name": "ea17d588-b0de-43d2-acdf-311fef31e228",
+                                "originalEndTime": 542,
+                                "originalStartTime": 0,
+                                "src_end_time": 542,
+                                "src_original_end_time": 542,
+                                "src_original_start_time": 0,
+                                "src_start_time": 0,
+                                "startTime": 0
+                            }
+                        ]
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 542,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 0,
+                    "source_right_trim_double": 0,
+                    "source_total_frames": 542,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": true,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 14385,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/media/793069842.489574_73691771377046.MP4",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "6",
+                        "current_aspect_ratio": 6,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            6
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 1,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.8914651986715251
+                        }
+                    },
+                    "dewarp_setting": {
+                        "all_dewarp_types": [
+                            {
+                                "name": "TinyPlanet",
+                                "value": 16
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Wide",
+                                "value": 1
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            },
+                            {
+                                "name": "Narrow",
+                                "value": 3
+                            }
+                        ],
+                        "aspectRatio": 6,
+                        "current_dewarp_type": {
+                            "name": "Wide",
+                            "value": 1
+                        },
+                        "default_dewarp_type": {
+                            "name": "UltraWide",
+                            "value": 0
+                        },
+                        "fov_distance_range": {
+                            "is_max_x": false,
+                            "is_min_x": false,
+                            "max_distance": 1,
+                            "max_fov": 160.40260314941406,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false,
+                        "support_dewarp_types": [
+                            {
+                                "name": "TinyPlanet",
+                                "value": 16
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Wide",
+                                "value": 1
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            },
+                            {
+                                "name": "Narrow",
+                                "value": 3
+                            }
+                        ]
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "id": "4c734ebf-c6e3-4df4-96b0-4200152c5b65",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "IMG_0965 copy.jpg",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 1,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.8914651986715251
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 709,
+                    "original_total_frames": 900,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 709,
+                    "roughTrimmed": false,
+                    "sourceFrames": 900,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 709,
+                    "source_right_trim_double": 709,
+                    "source_total_frames": 900,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 14927,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0,
+                            1
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 5,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/media/IMG_0965 copy.jpg",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "6",
+                        "current_aspect_ratio": 6,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            6
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.9947662448110383
+                        }
+                    },
+                    "dewarp_setting": {
+                        "all_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ],
+                        "aspectRatio": 8,
+                        "current_dewarp_type": {
+                            "name": "UltraWide",
+                            "value": 0
+                        },
+                        "default_dewarp_type": {
+                            "name": "MegaView",
+                            "value": 15
+                        },
+                        "fov_distance_range": {
+                            "is_max_x": false,
+                            "is_min_x": false,
+                            "max_distance": 1,
+                            "max_fov": 139.35372924804688,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false,
+                        "support_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "id": "31b389df-ae3c-4262-aa93-421c1bdacb77",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": true,
+                        "supportLocalToneMapping": true,
+                        "supportLut": false,
+                        "supportMotionBlur": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "IMG_238.jpg",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.9947662448110383
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 709,
+                    "original_total_frames": 900,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 709,
+                    "roughTrimmed": false,
+                    "sourceFrames": 900,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 709,
+                    "source_right_trim_double": 709,
+                    "source_total_frames": 900,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 2,
+                        "supportBoostStabLevel": true,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 15118,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 5,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/IMG_20260114_150902_238.jpg",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "6",
+                        "current_aspect_ratio": 6,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            6
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.9947662448110383
+                        }
+                    },
+                    "dewarp_setting": {
+                        "all_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ],
+                        "aspectRatio": 8,
+                        "current_dewarp_type": {
+                            "name": "UltraWide",
+                            "value": 0
+                        },
+                        "default_dewarp_type": {
+                            "name": "MegaView",
+                            "value": 15
+                        },
+                        "fov_distance_range": {
+                            "is_max_x": false,
+                            "is_min_x": false,
+                            "max_distance": 1,
+                            "max_fov": 139.35372924804688,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false,
+                        "support_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "id": "9f604a42-a7a2-4793-87ef-195acbb400f0",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": true,
+                        "supportLocalToneMapping": true,
+                        "supportLut": false,
+                        "supportMotionBlur": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "IMG_241.jpg",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.9947662448110383
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 712,
+                    "original_total_frames": 900,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 712,
+                    "roughTrimmed": false,
+                    "sourceFrames": 900,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 712,
+                    "source_right_trim_double": 712,
+                    "source_total_frames": 900,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 2,
+                        "supportBoostStabLevel": true,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 15309,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 5,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/IMG_20260114_151740_241.jpg",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "6",
+                        "current_aspect_ratio": 6,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            6
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.9947662448110383
+                        }
+                    },
+                    "dewarp_setting": {
+                        "all_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ],
+                        "aspectRatio": 8,
+                        "current_dewarp_type": {
+                            "name": "UltraWide",
+                            "value": 0
+                        },
+                        "default_dewarp_type": {
+                            "name": "MegaView",
+                            "value": 15
+                        },
+                        "fov_distance_range": {
+                            "is_max_x": false,
+                            "is_min_x": false,
+                            "max_distance": 1,
+                            "max_fov": 139.35372924804688,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false,
+                        "support_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "id": "92cf1dcd-2379-4d8a-a5dc-156159575a10",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": true,
+                        "supportLocalToneMapping": true,
+                        "supportLut": false,
+                        "supportMotionBlur": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "IMG_242.jpg",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.9947662448110383
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 711,
+                    "original_total_frames": 900,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 711,
+                    "roughTrimmed": false,
+                    "sourceFrames": 900,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 711,
+                    "source_right_trim_double": 711,
+                    "source_total_frames": 900,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 2,
+                        "supportBoostStabLevel": true,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 15497,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 5,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/IMG_20260114_151813_242.jpg",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "6",
+                        "current_aspect_ratio": 6,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            6
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.9947662448110383
+                        }
+                    },
+                    "dewarp_setting": {
+                        "all_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ],
+                        "aspectRatio": 8,
+                        "current_dewarp_type": {
+                            "name": "UltraWide",
+                            "value": 0
+                        },
+                        "default_dewarp_type": {
+                            "name": "MegaView",
+                            "value": 15
+                        },
+                        "fov_distance_range": {
+                            "is_max_x": false,
+                            "is_min_x": false,
+                            "max_distance": 1,
+                            "max_fov": 139.35372924804688,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false,
+                        "support_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "id": "5b8152d4-2cf7-4762-a3ca-e0bafe946687",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": true,
+                        "supportLocalToneMapping": true,
+                        "supportLut": false,
+                        "supportMotionBlur": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "IMG_243.jpg",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.9947662448110383
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 702,
+                    "original_total_frames": 900,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 702,
+                    "roughTrimmed": false,
+                    "sourceFrames": 900,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 702,
+                    "source_right_trim_double": 702,
+                    "source_total_frames": 900,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 2,
+                        "supportBoostStabLevel": true,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 15686,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 5,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/IMG_20260114_151822_243.jpg",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "6",
+                        "current_aspect_ratio": 6,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            6
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.9947662448110383
+                        }
+                    },
+                    "dewarp_setting": {
+                        "all_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ],
+                        "aspectRatio": 8,
+                        "current_dewarp_type": {
+                            "name": "UltraWide",
+                            "value": 0
+                        },
+                        "default_dewarp_type": {
+                            "name": "MegaView",
+                            "value": 15
+                        },
+                        "fov_distance_range": {
+                            "is_max_x": false,
+                            "is_min_x": false,
+                            "max_distance": 1,
+                            "max_fov": 139.35372924804688,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false,
+                        "support_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "id": "7205db17-88de-4131-8937-6e3d29dc8bec",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": true,
+                        "supportLocalToneMapping": true,
+                        "supportLut": false,
+                        "supportMotionBlur": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "IMG_244.jpg",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 0,
+                            "value": 0.9947662448110383
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 705,
+                    "original_total_frames": 900,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 705,
+                    "roughTrimmed": false,
+                    "sourceFrames": 900,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 705,
+                    "source_right_trim_double": 705,
+                    "source_total_frames": 900,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 2,
+                        "supportBoostStabLevel": true,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 15884,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 5,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/IMG_20260114_152309_244.jpg",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "0",
+                        "current_aspect_ratio": 0,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            0
+                        ]
+                    },
+                    "audio_setting": {
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "camera_movement": {
+                        "camera_movement_models": [
+                        ]
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": ""
+                    },
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "enable_user_keyframe": true,
+                    "has_set_play_rate_manually": false,
+                    "head_track": {
+                        "head_track_list": [
+                        ]
+                    },
+                    "highlight_data": false,
+                    "id": "da9f610d-998b-4b92-9e25-050a16ae7a86",
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterBalance": 0,
+                        "underWaterBalanceMax": 50,
+                        "underWaterBalanceMin": -50,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "ScreenRecording_02-19-2026 00-31-38_1.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "original_left_trim": 0,
+                    "original_right_trim": 0,
+                    "original_total_frames": 1625,
+                    "play_rate_track": {
+                        "play_rate_list": [
+                            {
+                                "defaultFactor": 1,
+                                "endTime": 1625,
+                                "maxPlayRate": 1,
+                                "minPlayRate": 1,
+                                "name": "3f60dd4e-8e02-44c6-95f5-af283d224a5c",
+                                "originalEndTime": 1625,
+                                "originalStartTime": 0,
+                                "src_end_time": 1625,
+                                "src_original_end_time": 1625,
+                                "src_original_start_time": 0,
+                                "src_start_time": 0,
+                                "startTime": 0
+                            }
+                        ]
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 1625,
+                    "source_left_trim": 0,
+                    "source_left_trim_double": 0,
+                    "source_right_trim": 0,
+                    "source_right_trim_double": 0,
+                    "source_total_frames": 1625,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableCameraMovement": false,
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableHeadTracking": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "freshLevelDescription": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": true,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 16079,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "enablePropellerGuard": false,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/January - Maldives/40 Felicity Maldives - North Ari Atoll - Fesdhoo Wreck/media/ScreenRecording_02-19-2026 00-31-38_1.MP4",
+                    "use_default_camera_transform": false,
+                    "viewType": 0
+                }
+            ],
+            "id": "19e2a372-3601-43db-b9eb-9b579ef1312c",
+            "locked": false,
+            "transitions": [
+                {
+                    "defaultFrames": 30,
+                    "frames": 30,
+                    "id": "0ffd588e-6017-43ad-85d1-e3924d6680e1",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Cube",
+                    "nextClip": "f6331db8-915e-4a83-adae-5bffc45ddcad",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/5BBB2484-9726-4369-94B2-93D04D8FC4DC/5BBB2484-9726-4369-94B2-93D04D8FC4DC/5BBB2484-9726-4369-94B2-93D04D8FC4DC.3.videotransition",
+                    "prevClip": "7c7ce3de-f0a8-42ee-8679-639d54d98b2d",
+                    "resourceId": "5BBB2484-9726-4369-94B2-93D04D8FC4DC",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 30,
+                    "id": "73a99491-6679-424c-a680-1bdb04c78252",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Cube",
+                    "nextClip": "31b389df-ae3c-4262-aa93-421c1bdacb77",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/5BBB2484-9726-4369-94B2-93D04D8FC4DC/5BBB2484-9726-4369-94B2-93D04D8FC4DC/5BBB2484-9726-4369-94B2-93D04D8FC4DC.3.videotransition",
+                    "prevClip": "4c734ebf-c6e3-4df4-96b0-4200152c5b65",
+                    "resourceId": "5BBB2484-9726-4369-94B2-93D04D8FC4DC",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 30,
+                    "id": "8075f28f-12f2-4e54-850c-fe69c5fbef31",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Cube",
+                    "nextClip": "2479158f-95dc-42f1-8862-36500e4b05ac",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/5BBB2484-9726-4369-94B2-93D04D8FC4DC/5BBB2484-9726-4369-94B2-93D04D8FC4DC/5BBB2484-9726-4369-94B2-93D04D8FC4DC.3.videotransition",
+                    "prevClip": "40f73c43-1fc5-4a78-a586-a34491188960",
+                    "resourceId": "5BBB2484-9726-4369-94B2-93D04D8FC4DC",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 30,
+                    "id": "94474c33-354b-45c0-980f-c953ba54c4aa",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Slide Right",
+                    "nextClip": "4c734ebf-c6e3-4df4-96b0-4200152c5b65",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/02D049B3-AB19-4D01-A75A-6F10FCADD2E0/02D049B3-AB19-4D01-A75A-6F10FCADD2E0/02D049B3-AB19-4D01-A75A-6F10FCADD2E0.1.videotransition",
+                    "prevClip": "f6331db8-915e-4a83-adae-5bffc45ddcad",
+                    "resourceId": "02D049B3-AB19-4D01-A75A-6F10FCADD2E0",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 30,
+                    "id": "c914a382-f8e3-4c9b-ad50-bc339d7cd9af",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Cube",
+                    "nextClip": "7c7ce3de-f0a8-42ee-8679-639d54d98b2d",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/5BBB2484-9726-4369-94B2-93D04D8FC4DC/5BBB2484-9726-4369-94B2-93D04D8FC4DC/5BBB2484-9726-4369-94B2-93D04D8FC4DC.3.videotransition",
+                    "prevClip": "2479158f-95dc-42f1-8862-36500e4b05ac",
+                    "resourceId": "5BBB2484-9726-4369-94B2-93D04D8FC4DC",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 30,
+                    "id": "f7364c06-c0be-42f2-a89e-1382beca3e90",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Cube",
+                    "nextClip": "40f73c43-1fc5-4a78-a586-a34491188960",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/5BBB2484-9726-4369-94B2-93D04D8FC4DC/5BBB2484-9726-4369-94B2-93D04D8FC4DC/5BBB2484-9726-4369-94B2-93D04D8FC4DC.3.videotransition",
+                    "prevClip": "29e296c3-8d0b-4f39-8f6f-9d599e8769e8",
+                    "resourceId": "5BBB2484-9726-4369-94B2-93D04D8FC4DC",
+                    "state": 0,
+                    "type": 2
+                }
+            ],
+            "type": 0,
+            "visible": true
+        },
+        {
+            "audible": true,
+            "clips": [
+            ],
+            "id": "eca7f83d-626e-4555-8453-44aa16ef7297",
+            "locked": false,
+            "transitions": [
+            ],
+            "type": 2,
+            "visible": true
+        }
+    ]
+}
