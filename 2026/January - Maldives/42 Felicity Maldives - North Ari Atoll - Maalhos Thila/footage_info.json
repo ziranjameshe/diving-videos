@@ -1,0 +1,314 @@
+{
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/IMG_20260115_074020_259.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/IMG_20260115_074127_260.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/793154210.929451_68111771461416.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/793154561.48358_107261771461772.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/793154878.904582_136821771462083.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/793155289.419373_147021771462494.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/793155608.029343_195941771462812.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/793155730.472567_206141771462939.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/793155885.128233_216341771463089.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/793156238.120093_226541771463442.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/793156346.795867_246391771463551.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/IMG_1004 copy.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.8914651986715251
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/ScreenRecording_02-21-2026 00-12-56_1.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    }
+}

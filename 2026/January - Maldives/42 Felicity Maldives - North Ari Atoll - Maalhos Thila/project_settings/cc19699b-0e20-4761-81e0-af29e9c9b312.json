@@ -1,0 +1,257 @@
+{
+    "aspect_ratio_info": {
+        "currentAspectRatio": "8",
+        "current_aspect_ratio": 8,
+        "supportAspectRatios": null,
+        "support_aspect_ratios": [
+            8
+        ]
+    },
+    "audio_setting": {
+        "currentDenoiseType": 1,
+        "currentFadeIn": 0,
+        "currentFadeOut": 0,
+        "currentMixingWeight": 50,
+        "currentTracksDelay": -2147483648,
+        "currentVolume": 100,
+        "defaultTracksDelay": -2147483648,
+        "enableDenoise": false,
+        "enableMixing": true,
+        "maxFadeIn": 300,
+        "maxFadeOut": 300,
+        "supportAudio": true,
+        "supportDenoise": true,
+        "supportDenoiseTypes": [
+            1,
+            2
+        ],
+        "supportMixing": false
+    },
+    "camera_movement": {
+        "camera_movement_models": [
+        ]
+    },
+    "camera_transform": {
+        "distance": 0.6,
+        "eulers": {
+            "pitch": {
+                "type": 0,
+                "value": 0
+            },
+            "roll": {
+                "type": 0,
+                "value": 0
+            },
+            "yaw": {
+                "type": 0,
+                "value": 0
+            }
+        },
+        "fov": {
+            "type": 1,
+            "value": 75
+        }
+    },
+    "deep_track": {
+        "cache_path": "",
+        "deep_track_list": [
+        ],
+        "original_clip_id": ""
+    },
+    "dewarp_setting": {
+        "aspectRatio": 0,
+        "fov_distance_range": {
+            "is_max_x": true,
+            "is_min_x": true,
+            "max_distance": 1.7999999523162842,
+            "max_fov": 178,
+            "min_distance": 0,
+            "min_fov": 1
+        },
+        "removeDistortion": false
+    },
+    "enable_user_keyframe": true,
+    "has_set_play_rate_manually": false,
+    "head_track": {
+        "head_track_list": [
+        ]
+    },
+    "highlight_data": false,
+    "id": "cc19699b-0e20-4761-81e0-af29e9c9b312",
+    "key_frame_track": {
+    },
+    "lastTrimEditTime": 0,
+    "leftTrim": 0,
+    "media_process": {
+        "colorAdjustAutoadjust": 0,
+        "colorAdjustBlackpoint": 0,
+        "colorAdjustBrightness": 0,
+        "colorAdjustBrilliance": 0,
+        "colorAdjustCommonMax": 100,
+        "colorAdjustCommonMin": -100,
+        "colorAdjustContrast": 0,
+        "colorAdjustDefinition": 0,
+        "colorAdjustDefinitionMin": 0,
+        "colorAdjustExposure": 0,
+        "colorAdjustHighlights": 0,
+        "colorAdjustSaturation": 0,
+        "colorAdjustShadows": 0,
+        "colorAdjustTint": 0,
+        "colorAdjustVibrance": 0,
+        "colorAdjustWarmth": 0,
+        "colorPlusStrength": 30,
+        "colorPlusStrengthMax": 100,
+        "colorPlusStrengthMin": 0,
+        "enableAe": false,
+        "enableBeautyMode": false,
+        "enableColorAdjust": false,
+        "enableColorPlus": false,
+        "enableHorizontalCorrect": false,
+        "enableLocalToneMapping": false,
+        "enableLut": false,
+        "enableMotionBlur": false,
+        "enableMultiFrameDenoise": false,
+        "enableSingleDenoise": false,
+        "enableTimeLogo": false,
+        "enableUnderWaterCorrect": false,
+        "horizontalCorrectAngle": 0,
+        "horizontalCorrectDefaultAngle": 0,
+        "localToneMappingStrength": 30,
+        "localToneMappingStrengthMax": 100,
+        "localToneMappingStrengthMin": 0,
+        "motionBlurEdited": false,
+        "motionBlurStrength": 50,
+        "motionBlurThreshold": 85,
+        "supportAe": false,
+        "supportColorAdjust": true,
+        "supportColorPlus": true,
+        "supportHorizontalCorrect": false,
+        "supportLocalToneMapping": false,
+        "supportLut": false,
+        "supportMotionBlur": true,
+        "supportSingleDenoise": false,
+        "supportUnderWaterCorrect": false,
+        "timeLogoFormat": 0,
+        "timeLogoTransparency": 100,
+        "underWaterBalance": 0,
+        "underWaterBalanceMax": 50,
+        "underWaterBalanceMin": -50,
+        "underWaterStrength": 100,
+        "underWaterStrengthMax": 100,
+        "underWaterStrengthMin": 0,
+        "underWaterStyle": 0
+    },
+    "name": "793155608.029343_195941771462812.MP4",
+    "online": false,
+    "original_camera_transform": {
+        "distance": 0.6,
+        "eulers": {
+            "pitch": {
+                "type": 0,
+                "value": 0
+            },
+            "roll": {
+                "type": 0,
+                "value": 0
+            },
+            "yaw": {
+                "type": 0,
+                "value": 0
+            }
+        },
+        "fov": {
+            "type": 1,
+            "value": 75
+        }
+    },
+    "original_left_trim": 0,
+    "original_right_trim": 0,
+    "original_total_frames": 2991,
+    "play_rate_track": {
+        "play_rate_list": [
+            {
+                "defaultFactor": 1,
+                "endTime": 2991,
+                "maxPlayRate": 1,
+                "minPlayRate": 1,
+                "name": "04a26995-686f-483a-9282-6f152de2ee07",
+                "originalEndTime": 2991,
+                "originalStartTime": 0,
+                "src_end_time": 2991,
+                "src_original_end_time": 2991,
+                "src_original_start_time": 0,
+                "src_start_time": 0,
+                "startTime": 0
+            }
+        ]
+    },
+    "popupApplyDefaultCameraTransformTips": true,
+    "ratio": 8,
+    "resourceId": "",
+    "rightTrim": 0,
+    "roughTrimmed": false,
+    "sourceFrames": 2991,
+    "source_left_trim": 0,
+    "source_left_trim_double": 0,
+    "source_right_trim": 0,
+    "source_right_trim_double": 0,
+    "source_total_frames": 2991,
+    "srcId": "",
+    "stab_setting": {
+        "enableCameraMovement": false,
+        "enableDirectionalLock": false,
+        "enableFpv": false,
+        "enableHeadTracking": false,
+        "enableImmerrsionStab": false,
+        "enablePanoFpv": false,
+        "enableStab": false,
+        "freshLevelDescription": false,
+        "modifiable": true,
+        "stabLevel": 0,
+        "supportBoostStabLevel": false,
+        "supportDirectionalLock": true,
+        "supportFpv": false,
+        "supportHighStabLevel": false,
+        "supportPanoFpv": false,
+        "supportStab": false
+    },
+    "startFrame": 0,
+    "state": 0,
+    "stitching_optimization": {
+        "enableAIStitching": false,
+        "enableDynamicStitching": false,
+        "enableImageFusionStitching": false,
+        "enableOpticalFlowStitching": false,
+        "ignoreDynamicStitching": false,
+        "ignoreImageFusionStitching": false,
+        "ignoreOpticalFlowStitching": false,
+        "optimizedOffset": "",
+        "supportAIStitching": false,
+        "supportDynamicStitching": false,
+        "supportImageFusionStitching": false,
+        "supportOpticalFlowStitching": false
+    },
+    "stitching_setting": {
+        "cameraAccessory": 0,
+        "customStitchingValue": 0,
+        "customStitchingValueMax": 0,
+        "enableColdShoe": false,
+        "enableCoolingShell": false,
+        "enablePropellerGuard": false,
+        "supportCameraAccessory": [
+            0
+        ],
+        "supportColdShoe": false,
+        "supportCoolingShell": false,
+        "supportCustomStitching": false,
+        "supportPropellerGuard": false,
+        "supportStitching": false
+    },
+    "subtype": 0,
+    "supplementFrameType": "SupplementFrameTypeNormal",
+    "supplement_frame_type": 0,
+    "type": 1,
+    "url": "/Volumes/LaCie/2026/January - Maldives/42 Felicity Maldives - North Ari Atoll - Maalhos Thila/media/793155608.029343_195941771462812.MP4",
+    "use_default_camera_transform": false,
+    "viewType": 0
+}
