@@ -1,0 +1,43 @@
+{
+    "aspectRatio": "16:9",
+    "autoFps": false,
+    "creationTime": "2026.02.21 23:17:16",
+    "definitionEdited": false,
+    "definitionTypeByUser": 0,
+    "enableEffects": true,
+    "fps": 60,
+    "frames": 0,
+    "id": "280f354d-b9d7-4ba8-b0ad-8e7f89bd02d6",
+    "isPanoramic": false,
+    "lastModifiedTime": "2026.02.21 23:17:16",
+    "lowQualityProxyType": -1,
+    "mainMagnetizable": true,
+    "markTrimEnd": 0,
+    "markTrimIn": 0,
+    "markTrimVisible": false,
+    "name": "44 Felicity Maldives - North Ari Atoll - Fish Head",
+    "projectPath": "/Users/james/code/diving-videos/2026/January - Maldives/44 Felicity Maldives - North Ari Atoll - Fish Head",
+    "tracks": [
+        {
+            "audible": true,
+            "id": "332abdf5-2eba-4540-ad90-56c47b158b4b",
+            "locked": false,
+            "type": 0,
+            "visible": true
+        },
+        {
+            "audible": true,
+            "id": "37ff439b-1423-41ae-9b4a-0900318265c9",
+            "locked": false,
+            "type": 2,
+            "visible": true
+        },
+        {
+            "audible": true,
+            "id": "51588464-e886-444f-8b7b-639ddd50df71",
+            "locked": false,
+            "type": 3,
+            "visible": true
+        }
+    ]
+}
