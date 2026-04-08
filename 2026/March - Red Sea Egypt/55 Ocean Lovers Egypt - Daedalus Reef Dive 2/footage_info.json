@@ -1,0 +1,362 @@
+{
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/IMG_20260324_113956_108.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797192336.445997_30051775499541.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797192432.239826_45261775499636.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797192447.811965_45621775499652.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797192488.359496_46061775499692.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797192599.482939_46501775499803.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797192632.996266_46941775499837.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797199842.269509_15171775507046.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797200327.716738_45071775507531.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797200391.88888_45531775507596.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797200460.346677_45991775507664.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797200860.361129_61101775508064.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/797200967.217135_61561775508172.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/IMG_1795 copy.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.8914651986715251
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/55 Ocean Lovers Egypt - Daedalus Reef Dive 2/media/IMG_1814 copy.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.8914651986715251
+            }
+        },
+        "player_frame": 0
+    }
+}
