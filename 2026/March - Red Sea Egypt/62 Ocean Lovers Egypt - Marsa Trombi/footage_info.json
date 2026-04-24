@@ -1,0 +1,338 @@
+{
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/IMG_20260326_155305_213.jpg": {
+        "camera_transform": {
+            "distance": 0.8,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.9947662448110383
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798076866.634146_28411776384077.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798077364.633311_28771776384568.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798077477.54374_29231776384681.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798077945.943956_29691776385150.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798078037.877917_30151776385242.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798078140.733179_30611776385345.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798081069.535741_31111776388273.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798081647.993104_31591776388852.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798081824.504362_32061776389029.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798081889.759498_32511776389094.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/798158260.499019_11511776465465.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/IMG_1952 copy.jpg": {
+        "camera_transform": {
+            "distance": 1,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 0,
+                "value": 0.8914651986715251
+            }
+        },
+        "player_frame": 0
+    },
+    "/Volumes/LaCie/2026/March - Red Sea Egypt/62 Ocean Lovers Egypt - Marsa Trombi/media/ScreenRecording_04-24-2026 00-46-02_1.MP4": {
+        "camera_transform": {
+            "distance": 0.6,
+            "eulers": {
+                "pitch": {
+                    "type": 0,
+                    "value": 0
+                },
+                "roll": {
+                    "type": 0,
+                    "value": 0
+                },
+                "yaw": {
+                    "type": 0,
+                    "value": 0
+                }
+            },
+            "fov": {
+                "type": 1,
+                "value": 75
+            }
+        },
+        "player_frame": 0
+    }
+}
