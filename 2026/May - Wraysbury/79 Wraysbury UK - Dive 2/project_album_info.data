@@ -1,0 +1,145 @@
+{
+    "album_tree": {
+        "nodes": [
+        ],
+        "root_uuids": [
+        ],
+        "version": 1
+    },
+    "non_album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/801788482.014832_87001780095684.MP4",
+                "name": "801788482.014832_87001780095684.MP4",
+                "node_uuid": "0435379c-01be-44cf-8f09-e9f604c6ff67",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Users/james/Downloads/IMG_2813.JPG",
+                "name": "IMG_2813.JPG",
+                "node_uuid": "1dc75ce5-6a23-4585-96cf-f723e7f2cd82",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/801788386.7154_86541780095588.MP4",
+                "name": "801788386.7154_86541780095588.MP4",
+                "node_uuid": "28d8b155-b33d-4e37-bd45-b9259c7fcbdf",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/DJI_20260523130948_0010_D (1).mov",
+                "name": "DJI_20260523130948_0010_D (1).mov",
+                "node_uuid": "506ba34a-c081-4423-a5dd-f220935a69fe",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/801786776.325686_48651780093978.MP4",
+                "name": "801786776.325686_48651780093978.MP4",
+                "node_uuid": "5263e230-210f-4272-843a-1d9765fbb97b",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/DJI_20260523131319_0011_D.mov",
+                "name": "DJI_20260523131319_0011_D.mov",
+                "node_uuid": "54611208-bfdf-4701-ad11-7cb33d26235e",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/801786581.400466_48171780093783.MP4",
+                "name": "801786581.400466_48171780093783.MP4",
+                "node_uuid": "5e66892a-1d15-46e2-945b-5cde1bfa4d7a",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/801787439.571303_58381780094642.MP4",
+                "name": "801787439.571303_58381780094642.MP4",
+                "node_uuid": "64a62aa6-b402-4372-8c51-c98a0877d613",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/VID_20260523_134521_019.mp4",
+                "name": "VID_019.mp4",
+                "node_uuid": "7cdf652b-17c4-4599-bb8e-f7821b5f3905",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/801787602.557128_58861780094804.MP4",
+                "name": "801787602.557128_58861780094804.MP4",
+                "node_uuid": "8afdf220-25e2-4dbd-a892-0fb439e44b40",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/801787954.595392_77041780095157.MP4",
+                "name": "801787954.595392_77041780095157.MP4",
+                "node_uuid": "8e498a2e-ffd9-4ef6-a944-554bcc9d0d1d",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/801786157.620874_47691780093360.MP4",
+                "name": "801786157.620874_47691780093360.MP4",
+                "node_uuid": "931eb138-caf6-4756-acfc-d00ee863a267",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Users/james/Downloads/IMG_2814.JPG",
+                "name": "IMG_2814.JPG",
+                "node_uuid": "abc1d7c2-02bc-4eb6-84f0-671d5e911be7",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/801788021.987214_77521780095224.MP4",
+                "name": "801788021.987214_77521780095224.MP4",
+                "node_uuid": "d11caa3c-7b6c-4e04-b3a2-f5eb97bc5008",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/ScreenRecording_06-07-2026 00-05-14_1.MP4",
+                "name": "ScreenRecording_06-07-2026 00-05-14_1.MP4",
+                "node_uuid": "ee59b103-a0c5-49d3-9156-a4f0e1b08221",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Wraysbury/79 Wraysbury UK - Dive 2/media/801787119.593632_57901780094322.MP4",
+                "name": "801787119.593632_57901780094322.MP4",
+                "node_uuid": "f8f0b3d6-62b3-4ca2-9c62-de018f4b0cfe",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "931eb138-caf6-4756-acfc-d00ee863a267",
+            "5e66892a-1d15-46e2-945b-5cde1bfa4d7a",
+            "5263e230-210f-4272-843a-1d9765fbb97b",
+            "f8f0b3d6-62b3-4ca2-9c62-de018f4b0cfe",
+            "64a62aa6-b402-4372-8c51-c98a0877d613",
+            "8afdf220-25e2-4dbd-a892-0fb439e44b40",
+            "8e498a2e-ffd9-4ef6-a944-554bcc9d0d1d",
+            "d11caa3c-7b6c-4e04-b3a2-f5eb97bc5008",
+            "28d8b155-b33d-4e37-bd45-b9259c7fcbdf",
+            "0435379c-01be-44cf-8f09-e9f604c6ff67",
+            "7cdf652b-17c4-4599-bb8e-f7821b5f3905",
+            "1dc75ce5-6a23-4585-96cf-f723e7f2cd82",
+            "abc1d7c2-02bc-4eb6-84f0-671d5e911be7",
+            "506ba34a-c081-4423-a5dd-f220935a69fe",
+            "54611208-bfdf-4701-ad11-7cb33d26235e",
+            "ee59b103-a0c5-49d3-9156-a4f0e1b08221"
+        ],
+        "version": 1
+    },
+    "version": 1
+}
