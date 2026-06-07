@@ -1,0 +1,209 @@
+{
+    "album_tree": {
+        "nodes": [
+        ],
+        "root_uuids": [
+        ],
+        "version": 1
+    },
+    "non_album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801862831.344544_118301780170033.MP4",
+                "name": "801862831.344544_118301780170033.MP4",
+                "node_uuid": "00515794-4b0b-489e-a523-5e2b3b9addd8",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801864271.326938_120321780171473.MP4",
+                "name": "801864271.326938_120321780171473.MP4",
+                "node_uuid": "017731ba-8662-450a-9c3b-ea533b525ca9",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801862773.073871_117451780169976.MP4",
+                "name": "801862773.073871_117451780169976.MP4",
+                "node_uuid": "04a6bcb1-39c3-4de8-9008-394009d8ef04",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801863070.879777_118761780170273.MP4",
+                "name": "801863070.879777_118761780170273.MP4",
+                "node_uuid": "079a57c7-d972-4eba-8e9b-8fa14101afbb",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801857432.274107_115861780164635.MP4",
+                "name": "801857432.274107_115861780164635.MP4",
+                "node_uuid": "10821a33-320b-4b38-9746-5d86a9408dce",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801862217.237532_116961780169419.MP4",
+                "name": "801862217.237532_116961780169419.MP4",
+                "node_uuid": "204e9454-79f2-4b77-9824-5ef806cad724",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/ScreenRecording_06-07-2026 19-45-27_1.MP4",
+                "name": "ScreenRecording_06-07-2026 19-45-27_1.MP4",
+                "node_uuid": "24e8dd01-dfb0-4a00-b14b-68fad67b6122",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/IMG_2674.MOV",
+                "name": "IMG_2674.MOV",
+                "node_uuid": "2c6fa900-61cd-4bc2-9eed-854ce64c38d0",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801865102.925715_121721780172305.MP4",
+                "name": "801865102.925715_121721780172305.MP4",
+                "node_uuid": "383edba7-c2c6-406f-9f07-4b8fed98f013",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/VID_20260530_110242_001.mp4",
+                "name": "VID_001.mp4",
+                "node_uuid": "39dce247-21c2-4517-94d5-e91736c6554d",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801863747.129129_119361780170949.MP4",
+                "name": "801863747.129129_119361780170949.MP4",
+                "node_uuid": "3b566feb-b064-4395-b13d-a4dd02ccf33e",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801865431.409211_122641780172633.MP4",
+                "name": "801865431.409211_122641780172633.MP4",
+                "node_uuid": "52adfdfb-e3ea-49d4-b21e-bd712ac08da5",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801865583.11323_123101780172785.MP4",
+                "name": "801865583.11323_123101780172785.MP4",
+                "node_uuid": "74e99ede-e4bd-4374-b1df-5e7edc59e046",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801863782.293819_119821780170986.MP4",
+                "name": "801863782.293819_119821780170986.MP4",
+                "node_uuid": "77cd76e7-334e-40e8-aa2a-535aacc37bb6",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/IMG_2676.jpg",
+                "name": "IMG_2676.jpg",
+                "node_uuid": "83e6fdbe-3e97-49b1-b53c-373993047fdc",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801862797.599059_117861780169999.MP4",
+                "name": "801862797.599059_117861780169999.MP4",
+                "node_uuid": "8507bdd3-ec6c-418f-b738-087ba68931dd",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801865295.311011_122181780172497.MP4",
+                "name": "801865295.311011_122181780172497.MP4",
+                "node_uuid": "b00942b7-0496-4304-9028-d4de24d0db7d",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801865723.630079_123561780172927.MP4",
+                "name": "801865723.630079_123561780172927.MP4",
+                "node_uuid": "bce05472-c555-4323-9980-c5555c8b272f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/VID_20260530_110730_002.mp4",
+                "name": "VID_002.mp4",
+                "node_uuid": "be3b373d-6516-4321-866e-7f37395fe762",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801865891.373822_124021780173094.MP4",
+                "name": "801865891.373822_124021780173094.MP4",
+                "node_uuid": "c425263b-a3cd-4b0f-898b-befa7e405fb7",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801864976.297006_121261780172178.MP4",
+                "name": "801864976.297006_121261780172178.MP4",
+                "node_uuid": "c941ca59-0175-4eab-aa9b-fb7e8bc69bee",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801864379.75924_120781780171582.MP4",
+                "name": "801864379.75924_120781780171582.MP4",
+                "node_uuid": "d10b5a84-7246-4fce-9975-15518b754b0c",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/IMG_2675.MOV",
+                "name": "IMG_2675.MOV",
+                "node_uuid": "e0c23808-b191-4186-9d70-964d2044540b",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/81 - Indeep Plymouth - James Eagan Layne/media/801857745.585004_116341780164948.MP4",
+                "name": "801857745.585004_116341780164948.MP4",
+                "node_uuid": "e19dc9ce-4641-4dbe-a80f-534d07017030",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "39dce247-21c2-4517-94d5-e91736c6554d",
+            "be3b373d-6516-4321-866e-7f37395fe762",
+            "10821a33-320b-4b38-9746-5d86a9408dce",
+            "e19dc9ce-4641-4dbe-a80f-534d07017030",
+            "204e9454-79f2-4b77-9824-5ef806cad724",
+            "04a6bcb1-39c3-4de8-9008-394009d8ef04",
+            "8507bdd3-ec6c-418f-b738-087ba68931dd",
+            "00515794-4b0b-489e-a523-5e2b3b9addd8",
+            "079a57c7-d972-4eba-8e9b-8fa14101afbb",
+            "3b566feb-b064-4395-b13d-a4dd02ccf33e",
+            "77cd76e7-334e-40e8-aa2a-535aacc37bb6",
+            "017731ba-8662-450a-9c3b-ea533b525ca9",
+            "d10b5a84-7246-4fce-9975-15518b754b0c",
+            "c941ca59-0175-4eab-aa9b-fb7e8bc69bee",
+            "383edba7-c2c6-406f-9f07-4b8fed98f013",
+            "b00942b7-0496-4304-9028-d4de24d0db7d",
+            "52adfdfb-e3ea-49d4-b21e-bd712ac08da5",
+            "74e99ede-e4bd-4374-b1df-5e7edc59e046",
+            "bce05472-c555-4323-9980-c5555c8b272f",
+            "c425263b-a3cd-4b0f-898b-befa7e405fb7",
+            "2c6fa900-61cd-4bc2-9eed-854ce64c38d0",
+            "e0c23808-b191-4186-9d70-964d2044540b",
+            "83e6fdbe-3e97-49b1-b53c-373993047fdc",
+            "24e8dd01-dfb0-4a00-b14b-68fad67b6122"
+        ],
+        "version": 1
+    },
+    "version": 1
+}
