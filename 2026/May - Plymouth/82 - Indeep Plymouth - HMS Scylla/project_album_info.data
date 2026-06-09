@@ -1,0 +1,241 @@
+{
+    "album_tree": {
+        "nodes": [
+        ],
+        "root_uuids": [
+        ],
+        "version": 1
+    },
+    "non_album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/VID_20260530_142824_039.mp4",
+                "name": "VID_039.mp4",
+                "node_uuid": "02fb5e30-d455-48fc-b19d-11b10234357f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801871039.785836_141421780178242.MP4",
+                "name": "801871039.785836_141421780178242.MP4",
+                "node_uuid": "0339d556-d946-4026-84a9-73698426c5a3",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/0F8A1755-B472-4522-962D-63DDE49A79EF.JPG",
+                "name": "0F8A1755-B472-4522-962D-63DDE49A79EF.JPG",
+                "node_uuid": "060c927a-92ec-445d-8964-8c5d1dcdefd9",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/VID_20260530_142940_040.mp4",
+                "name": "VID_040.mp4",
+                "node_uuid": "07042b72-0b9d-4db9-ab15-a29883065fc0",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801867074.034114_135111780174276.MP4",
+                "name": "801867074.034114_135111780174276.MP4",
+                "node_uuid": "0c1d5a54-ea4c-4305-83a3-779c20db9ec1",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/IMG_2680.MOV",
+                "name": "IMG_2680.MOV",
+                "node_uuid": "12e8a15c-363f-43e2-a252-30177d4bcddc",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801866810.74477_134631780174024.MP4",
+                "name": "801866810.74477_134631780174024.MP4",
+                "node_uuid": "13ff759b-b99d-46b0-9cf8-24897b888f32",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/ScreenRecording_06-09-2026 00-05-48_1.MP4",
+                "name": "ScreenRecording_06-09-2026 00-05-48_1.MP4",
+                "node_uuid": "1a363522-4179-494e-b802-4c635efdf39e",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/IMG_2677 copy.jpg",
+                "name": "IMG_2677 copy.jpg",
+                "node_uuid": "1c7a75a4-7a32-436e-87b6-53e6a2c6e8fd",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801869941.360749_138391780177143.MP4",
+                "name": "801869941.360749_138391780177143.MP4",
+                "node_uuid": "35afdd8c-9045-4578-8a30-3721bff82cd0",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801869016.326605_136511780176220.MP4",
+                "name": "801869016.326605_136511780176220.MP4",
+                "node_uuid": "38d741c5-9b47-42ae-aad1-81a5bab9ed50",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801869362.821907_137451780176564.MP4",
+                "name": "801869362.821907_137451780176564.MP4",
+                "node_uuid": "3b03c068-af79-410a-b636-c0cd84eeaa0b",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/VID_20260530_133343_021.mp4",
+                "name": "VID_021.mp4",
+                "node_uuid": "411a29a1-25d1-4c5b-bcee-272552f2fa62",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/VID_20260530_133505_022.mp4",
+                "name": "VID_022.mp4",
+                "node_uuid": "4ad07a0b-e179-4ffd-9703-fd6202c8f997",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801869181.090204_136991780176383.MP4",
+                "name": "801869181.090204_136991780176383.MP4",
+                "node_uuid": "5fc69b39-203c-4fcb-b920-ad8960ed3ef8",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801870705.75081_140961780177910.MP4",
+                "name": "801870705.75081_140961780177910.MP4",
+                "node_uuid": "67fe6116-3f5c-4bfb-b7df-08b6a4f986d3",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/IMG_2678.jpg",
+                "name": "IMG_2678.jpg",
+                "node_uuid": "6ad98431-fd63-4303-ac9b-04216e090e55",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801870360.327356_140021780177562.MP4",
+                "name": "801870360.327356_140021780177562.MP4",
+                "node_uuid": "7ae108eb-c023-4ae6-ba68-a75ad1c305e9",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/IMG_2723 copy.jpg",
+                "name": "IMG_2723 copy.jpg",
+                "node_uuid": "96693868-0823-4cc8-8d65-294b0a8a36c5",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801867373.074556_135571780174575.MP4",
+                "name": "801867373.074556_135571780174575.MP4",
+                "node_uuid": "9ada1140-95ac-4890-8ce5-2b10a93fe5a8",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801870023.974296_139101780177226.MP4",
+                "name": "801870023.974296_139101780177226.MP4",
+                "node_uuid": "9e7cf069-a7ec-4b9e-8de3-ef251b2cefd0",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801870144.902274_139561780177347.MP4",
+                "name": "801870144.902274_139561780177347.MP4",
+                "node_uuid": "ad14f9aa-6985-4fcb-a022-534cf3922d04",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801870529.738213_140501780177732.MP4",
+                "name": "801870529.738213_140501780177732.MP4",
+                "node_uuid": "b48ead30-43c5-4f6a-a341-e40546556842",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801869687.287169_137931780176889.MP4",
+                "name": "801869687.287169_137931780176889.MP4",
+                "node_uuid": "b741ae1d-7be3-4f73-a491-522ac55871ab",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801868836.721938_136031780176039.MP4",
+                "name": "801868836.721938_136031780176039.MP4",
+                "node_uuid": "c3ab6996-feb2-4856-a33c-e9e166c4f968",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/IMG_2722 copy.jpg",
+                "name": "IMG_2722 copy.jpg",
+                "node_uuid": "c9cab6b2-f911-43d9-84d4-b834034878ba",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/a6dc8460-5e1a-45fa-b03e-9947609053e7.png",
+                "name": "a6dc8460-5e1a-45fa-b03e-9947609053e7.png",
+                "node_uuid": "ce1b6f73-360d-4477-a396-f9ffca489189",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/82 - Indeep Plymouth - HMS Scylla/media/801866382.637687_134171780173584.MP4",
+                "name": "801866382.637687_134171780173584.MP4",
+                "node_uuid": "cf5f1850-f346-4a35-9940-b0ad86aa62c5",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "411a29a1-25d1-4c5b-bcee-272552f2fa62",
+            "4ad07a0b-e179-4ffd-9703-fd6202c8f997",
+            "cf5f1850-f346-4a35-9940-b0ad86aa62c5",
+            "13ff759b-b99d-46b0-9cf8-24897b888f32",
+            "0c1d5a54-ea4c-4305-83a3-779c20db9ec1",
+            "9ada1140-95ac-4890-8ce5-2b10a93fe5a8",
+            "c3ab6996-feb2-4856-a33c-e9e166c4f968",
+            "38d741c5-9b47-42ae-aad1-81a5bab9ed50",
+            "5fc69b39-203c-4fcb-b920-ad8960ed3ef8",
+            "3b03c068-af79-410a-b636-c0cd84eeaa0b",
+            "b741ae1d-7be3-4f73-a491-522ac55871ab",
+            "35afdd8c-9045-4578-8a30-3721bff82cd0",
+            "9e7cf069-a7ec-4b9e-8de3-ef251b2cefd0",
+            "ad14f9aa-6985-4fcb-a022-534cf3922d04",
+            "7ae108eb-c023-4ae6-ba68-a75ad1c305e9",
+            "b48ead30-43c5-4f6a-a341-e40546556842",
+            "67fe6116-3f5c-4bfb-b7df-08b6a4f986d3",
+            "0339d556-d946-4026-84a9-73698426c5a3",
+            "02fb5e30-d455-48fc-b19d-11b10234357f",
+            "07042b72-0b9d-4db9-ab15-a29883065fc0",
+            "12e8a15c-363f-43e2-a252-30177d4bcddc",
+            "1c7a75a4-7a32-436e-87b6-53e6a2c6e8fd",
+            "6ad98431-fd63-4303-ac9b-04216e090e55",
+            "c9cab6b2-f911-43d9-84d4-b834034878ba",
+            "96693868-0823-4cc8-8d65-294b0a8a36c5",
+            "060c927a-92ec-445d-8964-8c5d1dcdefd9",
+            "ce1b6f73-360d-4477-a396-f9ffca489189",
+            "1a363522-4179-494e-b802-4c635efdf39e"
+        ],
+        "version": 1
+    },
+    "version": 1
+}
