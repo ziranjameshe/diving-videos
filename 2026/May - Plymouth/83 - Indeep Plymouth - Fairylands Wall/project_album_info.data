@@ -1,0 +1,153 @@
+{
+    "album_tree": {
+        "nodes": [
+        ],
+        "root_uuids": [
+        ],
+        "version": 1
+    },
+    "non_album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/802167268.591613_10811780474470.MP4",
+                "name": "802167268.591613_10811780474470.MP4",
+                "node_uuid": "02b36f82-bae1-4682-9469-8d0e15feecfa",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/801961139.931549_80851780268342.MP4",
+                "name": "801961139.931549_80851780268342.MP4",
+                "node_uuid": "14e34d7f-4142-499e-b8e2-5d6986a54acc",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/801962503.96433_83151780269706.MP4",
+                "name": "801962503.96433_83151780269706.MP4",
+                "node_uuid": "2889799c-7aa0-481a-bc1d-b50a635a68a8",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/802167021.524138_10411780474225.MP4",
+                "name": "802167021.524138_10411780474225.MP4",
+                "node_uuid": "29bb0133-00e4-4a9e-a135-6fa20b17e75d",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/802167611.016286_11731780474813.MP4",
+                "name": "802167611.016286_11731780474813.MP4",
+                "node_uuid": "3e0dbc8e-a2ab-4493-817e-6b3859053570",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/801961626.275534_81311780268828.MP4",
+                "name": "801961626.275534_81311780268828.MP4",
+                "node_uuid": "57a4ce31-26dd-46a4-b450-b79bfe4b4565",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/ScreenRecording_06-10-2026 00-35-26_1.MP4",
+                "name": "ScreenRecording_06-10-2026 00-35-26_1.MP4",
+                "node_uuid": "70da3be0-3c53-45f7-82cc-ef1c0827dbc9",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/801962637.829083_83611780269840.MP4",
+                "name": "801962637.829083_83611780269840.MP4",
+                "node_uuid": "7c2fff7a-fe92-45cd-bb15-cb1f9e15e0d1",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/801962377.851018_82691780269579.MP4",
+                "name": "801962377.851018_82691780269579.MP4",
+                "node_uuid": "7f953d38-1723-4eff-81aa-262477f40adb",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/801960281.05846_70021780267483.MP4",
+                "name": "801960281.05846_70021780267483.MP4",
+                "node_uuid": "85a4be66-af12-4c8d-abcb-5cf175a2de88",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/801960488.010765_79841780267690.MP4",
+                "name": "801960488.010765_79841780267690.MP4",
+                "node_uuid": "ad6e3d95-1b57-4bcf-ac9b-3b05ba8f86cd",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/IMG_2761.jpg",
+                "name": "IMG_2761.jpg",
+                "node_uuid": "b0c59983-9c1e-4321-8f93-f86506858406",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/VID_20260531_102535_041.mp4",
+                "name": "VID_041.mp4",
+                "node_uuid": "d9a94aee-8040-4176-8123-6ae32b5ce378",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/801962177.444348_82231780269379.MP4",
+                "name": "801962177.444348_82231780269379.MP4",
+                "node_uuid": "dbc49e10-7183-4e37-bb5e-3e0eaab37076",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/802167404.923708_11271780474607.MP4",
+                "name": "802167404.923708_11271780474607.MP4",
+                "node_uuid": "dc296758-1504-4814-8d61-920f710c7c0e",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/801960714.275105_80301780267916.MP4",
+                "name": "801960714.275105_80301780267916.MP4",
+                "node_uuid": "e023f947-40cb-431f-84e0-d2f658bc77f0",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/83 - Indeep Plymouth - Fairylands Wall/media/801961981.372159_81771780269183.MP4",
+                "name": "801961981.372159_81771780269183.MP4",
+                "node_uuid": "e1cdbfc8-3f21-48cd-9aea-444979d30c30",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "85a4be66-af12-4c8d-abcb-5cf175a2de88",
+            "ad6e3d95-1b57-4bcf-ac9b-3b05ba8f86cd",
+            "e023f947-40cb-431f-84e0-d2f658bc77f0",
+            "14e34d7f-4142-499e-b8e2-5d6986a54acc",
+            "57a4ce31-26dd-46a4-b450-b79bfe4b4565",
+            "e1cdbfc8-3f21-48cd-9aea-444979d30c30",
+            "dbc49e10-7183-4e37-bb5e-3e0eaab37076",
+            "7f953d38-1723-4eff-81aa-262477f40adb",
+            "2889799c-7aa0-481a-bc1d-b50a635a68a8",
+            "7c2fff7a-fe92-45cd-bb15-cb1f9e15e0d1",
+            "29bb0133-00e4-4a9e-a135-6fa20b17e75d",
+            "02b36f82-bae1-4682-9469-8d0e15feecfa",
+            "dc296758-1504-4814-8d61-920f710c7c0e",
+            "3e0dbc8e-a2ab-4493-817e-6b3859053570",
+            "d9a94aee-8040-4176-8123-6ae32b5ce378",
+            "b0c59983-9c1e-4321-8f93-f86506858406",
+            "70da3be0-3c53-45f7-82cc-ef1c0827dbc9"
+        ],
+        "version": 1
+    },
+    "version": 1
+}
