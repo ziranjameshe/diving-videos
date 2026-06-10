@@ -1,0 +1,113 @@
+{
+    "album_tree": {
+        "nodes": [
+        ],
+        "root_uuids": [
+        ],
+        "version": 1
+    },
+    "non_album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/media/IMG_2765 copy.jpg",
+                "name": "IMG_2765 copy.jpg",
+                "node_uuid": "35e45bc3-f963-460f-a18e-1f255459d1ab",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/media/ScreenRecording_06-10-2026 23-41-53_1.MP4",
+                "name": "ScreenRecording_06-10-2026 23-41-53_1.MP4",
+                "node_uuid": "38cc2a4f-dae8-4b4b-a5fb-a025f81b547a",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/media/802168462.60591_13971780475664.MP4",
+                "name": "802168462.60591_13971780475664.MP4",
+                "node_uuid": "5d5830a8-3965-440f-a51a-7cf40f1e70b4",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/media/802168737.719874_14411780475939.MP4",
+                "name": "802168737.719874_14411780475939.MP4",
+                "node_uuid": "6c0828bd-8d23-4018-be79-e7c765169083",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/media/IMG_2764 copy.jpg",
+                "name": "IMG_2764 copy.jpg",
+                "node_uuid": "7760b715-5b39-41e9-aa6a-158bfc450490",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/media/802168302.787314_13531780475504.MP4",
+                "name": "802168302.787314_13531780475504.MP4",
+                "node_uuid": "7b533d9b-26e6-4628-82da-fbffb2e2358c",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/media/802167724.666802_12191780474927.MP4",
+                "name": "802167724.666802_12191780474927.MP4",
+                "node_uuid": "8a824322-f71d-404e-9057-6d4222579ad1",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/VID_20260531_133229_062.mp4",
+                "name": "VID_062.mp4",
+                "node_uuid": "b1ea7039-30ef-4b5b-b662-6315ac4f5dc2",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/media/IMG_2763.jpg",
+                "name": "IMG_2763.jpg",
+                "node_uuid": "b6928b27-7826-41a5-a0f4-a5f52329856a",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/VID_20260531_135751_063.mp4",
+                "name": "VID_063.mp4",
+                "node_uuid": "b96e0074-8825-4b5a-ac6d-988d1a800bb9",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/media/802168239.196906_13101780475441.MP4",
+                "name": "802168239.196906_13101780475441.MP4",
+                "node_uuid": "c0937948-8c16-4831-9bb1-15187f82f7c3",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/May - Plymouth/84 - Indeep Plymouth - Mewstone Ledges/media/802168013.451474_12671780475215.MP4",
+                "name": "802168013.451474_12671780475215.MP4",
+                "node_uuid": "fa1c5740-e7d5-452c-bc2d-8930aaaec2d3",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "8a824322-f71d-404e-9057-6d4222579ad1",
+            "fa1c5740-e7d5-452c-bc2d-8930aaaec2d3",
+            "c0937948-8c16-4831-9bb1-15187f82f7c3",
+            "7b533d9b-26e6-4628-82da-fbffb2e2358c",
+            "5d5830a8-3965-440f-a51a-7cf40f1e70b4",
+            "6c0828bd-8d23-4018-be79-e7c765169083",
+            "b6928b27-7826-41a5-a0f4-a5f52329856a",
+            "7760b715-5b39-41e9-aa6a-158bfc450490",
+            "35e45bc3-f963-460f-a18e-1f255459d1ab",
+            "b1ea7039-30ef-4b5b-b662-6315ac4f5dc2",
+            "b96e0074-8825-4b5a-ac6d-988d1a800bb9",
+            "38cc2a4f-dae8-4b4b-a5fb-a025f81b547a"
+        ],
+        "version": 1
+    },
+    "version": 1
+}
