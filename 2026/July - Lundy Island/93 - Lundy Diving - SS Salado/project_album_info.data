@@ -1,0 +1,494 @@
+{
+    "album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715675.857557_45081785022877.MP4",
+                "name": "806715675.857557_45081785022877.MP4",
+                "node_uuid": "b39ee098-7388-44ea-8ed6-6f78bc00b581",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3032 copy.jpg",
+                "name": "IMG_3032 copy.jpg",
+                "node_uuid": "1183f9a6-1bc0-40ff-ac41-d8d5ca1f88c5",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715510.382565_44261785022713.MP4",
+                "name": "806715510.382565_44261785022713.MP4",
+                "node_uuid": "a6dba38c-c8a6-4638-a378-a5a161a90dd0",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715362.844261_43941785022567.MP4",
+                "name": "806715362.844261_43941785022567.MP4",
+                "node_uuid": "21cd55a2-3072-4186-8b0b-63db5a38232f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716404.277281_47391785023606.MP4",
+                "name": "806716404.277281_47391785023606.MP4",
+                "node_uuid": "7ac3e60c-9d73-420a-bb40-9c3fa0902690",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716112.88275_46741785023315.MP4",
+                "name": "806716112.88275_46741785023315.MP4",
+                "node_uuid": "d44647e1-2952-46a8-b8c8-ce73b5191e44",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/ScreenRecording_07-28-2026 00-29-46_1.MP4",
+                "name": "ScreenRecording_07-28-2026 00-29-46_1.MP4",
+                "node_uuid": "c7959c36-c69f-4fcc-85c1-cad1b6e7bfaa",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3024 copy.jpg",
+                "name": "IMG_3024 copy.jpg",
+                "node_uuid": "a9d59456-d624-4ea1-86bd-6242c197aaeb",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3044.MOV",
+                "name": "IMG_3044.MOV",
+                "node_uuid": "f23ffd5a-e413-4d68-80bc-39d7d281048f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3051 copy.jpg",
+                "name": "IMG_3051 copy.jpg",
+                "node_uuid": "3a408539-8b01-42ec-9312-27075a4d8796",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3031 copy.jpg",
+                "name": "IMG_3031 copy.jpg",
+                "node_uuid": "315d337c-478f-4bf2-b932-6677e7ba26b7",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3020.MOV",
+                "name": "IMG_3020.MOV",
+                "node_uuid": "e3c5195f-711f-4151-85b4-d45ac071fdf1",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3042.MOV",
+                "name": "IMG_3042.MOV",
+                "node_uuid": "f4e1c5f4-1076-4fe1-b93e-e17030352fff",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715587.277017_44671785022789.MP4",
+                "name": "806715587.277017_44671785022789.MP4",
+                "node_uuid": "daf72f6c-76d8-4151-bf9c-94e120ad0da0",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3041.MOV",
+                "name": "IMG_3041.MOV",
+                "node_uuid": "a393a6fb-40f2-406b-88fa-f18339bf2b01",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806714439.522826_43291785021643.MP4",
+                "name": "806714439.522826_43291785021643.MP4",
+                "node_uuid": "6814699c-8324-479a-8688-6d743fbebfff",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716260.834236_47061785023463.MP4",
+                "name": "806716260.834236_47061785023463.MP4",
+                "node_uuid": "495c0592-89ec-4c79-a6a3-07091bc107df",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3013 copy.jpg",
+                "name": "IMG_3013 copy.jpg",
+                "node_uuid": "ffaf723c-bc15-4138-9b76-0ec527c4eb27",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3052 copy.jpg",
+                "name": "IMG_3052 copy.jpg",
+                "node_uuid": "fca4a56a-6c17-43a7-82bd-ce91ba6862df",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3012 copy.jpg",
+                "name": "IMG_3012 copy.jpg",
+                "node_uuid": "fd07718a-574e-4dea-a62c-4328dc294d7c",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716032.467433_46411785023234.MP4",
+                "name": "806716032.467433_46411785023234.MP4",
+                "node_uuid": "c45aa590-ab50-477c-abdb-dc816040b843",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715288.512563_43621785022491.MP4",
+                "name": "806715288.512563_43621785022491.MP4",
+                "node_uuid": "0d33ebbc-0f56-47fa-b68d-680c406a994f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806744074.565416_13321785051276.MP4",
+                "name": "806744074.565416_13321785051276.MP4",
+                "node_uuid": "d95a7bc3-dc20-4d81-b14b-8d11c1b85295",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3047.MOV",
+                "name": "IMG_3047.MOV",
+                "node_uuid": "dbb30e62-d744-45af-b360-18d58ca68d0a",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715763.520845_45681785022965.MP4",
+                "name": "806715763.520845_45681785022965.MP4",
+                "node_uuid": "7449d436-325d-4be1-b11b-4dbe5bba815d",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806743942.082313_13001785051144.MP4",
+                "name": "806743942.082313_13001785051144.MP4",
+                "node_uuid": "038bc8a6-2cec-4b2d-8631-22b3ee6b03ea",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715841.515976_46091785023043.MP4",
+                "name": "806715841.515976_46091785023043.MP4",
+                "node_uuid": "57a16eab-a8b7-47d5-9470-1ae08fbfab85",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3021 copy.jpg",
+                "name": "IMG_3021 copy.jpg",
+                "node_uuid": "8cd8dc4f-8c60-4be5-aebb-02337b65527f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/VID_20260725_102734_001.mp4",
+                "name": "VID_001.mp4",
+                "node_uuid": "01208a0c-579f-4fc6-a1df-8a37f37a0755",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806743363.837631_12591785050566.MP4",
+                "name": "806743363.837631_12591785050566.MP4",
+                "node_uuid": "445c9c83-a4c2-4f1f-9935-1bdabf36d3fc",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "01208a0c-579f-4fc6-a1df-8a37f37a0755",
+            "6814699c-8324-479a-8688-6d743fbebfff",
+            "0d33ebbc-0f56-47fa-b68d-680c406a994f",
+            "21cd55a2-3072-4186-8b0b-63db5a38232f",
+            "a6dba38c-c8a6-4638-a378-a5a161a90dd0",
+            "daf72f6c-76d8-4151-bf9c-94e120ad0da0",
+            "b39ee098-7388-44ea-8ed6-6f78bc00b581",
+            "7449d436-325d-4be1-b11b-4dbe5bba815d",
+            "57a16eab-a8b7-47d5-9470-1ae08fbfab85",
+            "c45aa590-ab50-477c-abdb-dc816040b843",
+            "d44647e1-2952-46a8-b8c8-ce73b5191e44",
+            "495c0592-89ec-4c79-a6a3-07091bc107df",
+            "7ac3e60c-9d73-420a-bb40-9c3fa0902690",
+            "445c9c83-a4c2-4f1f-9935-1bdabf36d3fc",
+            "038bc8a6-2cec-4b2d-8631-22b3ee6b03ea",
+            "d95a7bc3-dc20-4d81-b14b-8d11c1b85295",
+            "e3c5195f-711f-4151-85b4-d45ac071fdf1",
+            "a393a6fb-40f2-406b-88fa-f18339bf2b01",
+            "f4e1c5f4-1076-4fe1-b93e-e17030352fff",
+            "f23ffd5a-e413-4d68-80bc-39d7d281048f",
+            "dbb30e62-d744-45af-b360-18d58ca68d0a",
+            "fd07718a-574e-4dea-a62c-4328dc294d7c",
+            "ffaf723c-bc15-4138-9b76-0ec527c4eb27",
+            "8cd8dc4f-8c60-4be5-aebb-02337b65527f",
+            "a9d59456-d624-4ea1-86bd-6242c197aaeb",
+            "315d337c-478f-4bf2-b932-6677e7ba26b7",
+            "1183f9a6-1bc0-40ff-ac41-d8d5ca1f88c5",
+            "3a408539-8b01-42ec-9312-27075a4d8796",
+            "fca4a56a-6c17-43a7-82bd-ce91ba6862df",
+            "c7959c36-c69f-4fcc-85c1-cad1b6e7bfaa"
+        ],
+        "version": 1
+    },
+    "media_card_snapshots": {
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/VID_20260725_102734_001.mp4": {
+            "display_name": "VID_001.mp4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/VID_20260725_102734_001.mp4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806714439.522826_43291785021643.MP4": {
+            "display_name": "806714439.522826_43291785021643.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806714439.522826_43291785021643.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715288.512563_43621785022491.MP4": {
+            "display_name": "806715288.512563_43621785022491.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715288.512563_43621785022491.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715362.844261_43941785022567.MP4": {
+            "display_name": "806715362.844261_43941785022567.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715362.844261_43941785022567.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715510.382565_44261785022713.MP4": {
+            "display_name": "806715510.382565_44261785022713.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715510.382565_44261785022713.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715587.277017_44671785022789.MP4": {
+            "display_name": "806715587.277017_44671785022789.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715587.277017_44671785022789.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715675.857557_45081785022877.MP4": {
+            "display_name": "806715675.857557_45081785022877.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715675.857557_45081785022877.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715763.520845_45681785022965.MP4": {
+            "display_name": "806715763.520845_45681785022965.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715763.520845_45681785022965.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715841.515976_46091785023043.MP4": {
+            "display_name": "806715841.515976_46091785023043.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715841.515976_46091785023043.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716032.467433_46411785023234.MP4": {
+            "display_name": "806716032.467433_46411785023234.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716032.467433_46411785023234.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716112.88275_46741785023315.MP4": {
+            "display_name": "806716112.88275_46741785023315.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716112.88275_46741785023315.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716260.834236_47061785023463.MP4": {
+            "display_name": "806716260.834236_47061785023463.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716260.834236_47061785023463.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716404.277281_47391785023606.MP4": {
+            "display_name": "806716404.277281_47391785023606.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716404.277281_47391785023606.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806743363.837631_12591785050566.MP4": {
+            "display_name": "806743363.837631_12591785050566.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806743363.837631_12591785050566.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806743942.082313_13001785051144.MP4": {
+            "display_name": "806743942.082313_13001785051144.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806743942.082313_13001785051144.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806744074.565416_13321785051276.MP4": {
+            "display_name": "806744074.565416_13321785051276.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806744074.565416_13321785051276.MP4"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3012 copy.jpg": {
+            "display_name": "IMG_3012 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3012 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3013 copy.jpg": {
+            "display_name": "IMG_3013 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3013 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3020.MOV": {
+            "display_name": "IMG_3020.MOV",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3020.MOV"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3021 copy.jpg": {
+            "display_name": "IMG_3021 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3021 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3024 copy.jpg": {
+            "display_name": "IMG_3024 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3024 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3031 copy.jpg": {
+            "display_name": "IMG_3031 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3031 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3032 copy.jpg": {
+            "display_name": "IMG_3032 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3032 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3041.MOV": {
+            "display_name": "IMG_3041.MOV",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3041.MOV"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3042.MOV": {
+            "display_name": "IMG_3042.MOV",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3042.MOV"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3044.MOV": {
+            "display_name": "IMG_3044.MOV",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3044.MOV"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3047.MOV": {
+            "display_name": "IMG_3047.MOV",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3047.MOV"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3051 copy.jpg": {
+            "display_name": "IMG_3051 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3051 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3052 copy.jpg": {
+            "display_name": "IMG_3052 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3052 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/ScreenRecording_07-28-2026 00-29-46_1.MP4": {
+            "display_name": "ScreenRecording_07-28-2026 00-29-46_1.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/ScreenRecording_07-28-2026 00-29-46_1.MP4"
+        }
+    },
+    "tab_media_uuids": [
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806743363.837631_12591785050566.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716032.467433_46411785023234.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3042.MOV",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3020.MOV",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715362.844261_43941785022567.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716260.834236_47061785023463.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3021 copy.jpg",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3041.MOV",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3044.MOV",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/ScreenRecording_07-28-2026 00-29-46_1.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806714439.522826_43291785021643.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3051 copy.jpg",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3013 copy.jpg",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806744074.565416_13321785051276.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3032 copy.jpg",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715675.857557_45081785022877.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715841.515976_46091785023043.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715587.277017_44671785022789.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3024 copy.jpg",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715510.382565_44261785022713.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716112.88275_46741785023315.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715763.520845_45681785022965.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/VID_20260725_102734_001.mp4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3052 copy.jpg",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806743942.082313_13001785051144.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3012 copy.jpg",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806716404.277281_47391785023606.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3031 copy.jpg",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/806715288.512563_43621785022491.MP4",
+        "/Volumes/LaCie/2026/July - Lundy Island/93 - Lundy Diving - SS Salado/media/IMG_3047.MOV"
+    ],
+    "version": 1
+}
