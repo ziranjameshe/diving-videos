@@ -2,6 +2,20 @@
     "album_tree": {
         "nodes": [
             {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713684.216078_17461785020886.MP4",
+                "name": "806713684.216078_17461785020886.MP4",
+                "node_uuid": "64b0459a-d2c9-41af-a219-f9d485065737",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713511.306875_17191785020713.MP4",
+                "name": "806713511.306875_17191785020713.MP4",
+                "node_uuid": "f835f875-93d2-4315-b923-eeac28e00030",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
                 "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806714207.63173_18201785021409.MP4",
                 "name": "806714207.63173_18201785021409.MP4",
                 "node_uuid": "1145ce8a-ad1a-4b93-8ac5-f96409009423",
@@ -23,30 +37,16 @@
                 "type": "Footage"
             },
             {
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713247.980774_15991785020451.MP4",
+                "name": "806713247.980774_15991785020451.MP4",
+                "node_uuid": "52f77d65-bb4d-4ce5-a054-5b66f33e18cb",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
                 "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713278.795556_16311785020481.MP4",
                 "name": "806713278.795556_16311785020481.MP4",
                 "node_uuid": "15ef0712-201c-4f6f-869c-e0c243c67631",
-                "parent_uuid": "",
-                "type": "Footage"
-            },
-            {
-                "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713467.361147_16861785020679.MP4",
-                "name": "806713467.361147_16861785020679.MP4",
-                "node_uuid": "fec41c61-067b-4cea-bb65-9466444ddf4d",
-                "parent_uuid": "",
-                "type": "Footage"
-            },
-            {
-                "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/IMG_2945 copy.jpg",
-                "name": "IMG_2945 copy.jpg",
-                "node_uuid": "d121cf4d-802a-496f-a999-dccbe364c8e4",
-                "parent_uuid": "",
-                "type": "Footage"
-            },
-            {
-                "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713511.306875_17191785020713.MP4",
-                "name": "806713511.306875_17191785020713.MP4",
-                "node_uuid": "f835f875-93d2-4315-b923-eeac28e00030",
                 "parent_uuid": "",
                 "type": "Footage"
             },
@@ -58,16 +58,16 @@
                 "type": "Footage"
             },
             {
-                "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713684.216078_17461785020886.MP4",
-                "name": "806713684.216078_17461785020886.MP4",
-                "node_uuid": "64b0459a-d2c9-41af-a219-f9d485065737",
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/IMG_2945 copy.jpg",
+                "name": "IMG_2945 copy.jpg",
+                "node_uuid": "d121cf4d-802a-496f-a999-dccbe364c8e4",
                 "parent_uuid": "",
                 "type": "Footage"
             },
             {
-                "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713247.980774_15991785020451.MP4",
-                "name": "806713247.980774_15991785020451.MP4",
-                "node_uuid": "52f77d65-bb4d-4ce5-a054-5b66f33e18cb",
+                "media_card_uuid": "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713467.361147_16861785020679.MP4",
+                "name": "806713467.361147_16861785020679.MP4",
+                "node_uuid": "fec41c61-067b-4cea-bb65-9466444ddf4d",
                 "parent_uuid": "",
                 "type": "Footage"
             }
@@ -159,16 +159,16 @@
         }
     },
     "tab_media_uuids": [
-        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/IMG_2945 copy.jpg",
-        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713358.709521_16581785020561.MP4",
-        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713511.306875_17191785020713.MP4",
-        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713831.199977_17781785021033.MP4",
-        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713278.795556_16311785020481.MP4",
         "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713467.361147_16861785020679.MP4",
-        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713684.216078_17461785020886.MP4",
-        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713247.980774_15991785020451.MP4",
         "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/ScreenRecording_07-27-2026 17-24-13_1.MP4",
-        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806714207.63173_18201785021409.MP4"
+        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713831.199977_17781785021033.MP4",
+        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806714207.63173_18201785021409.MP4",
+        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713684.216078_17461785020886.MP4",
+        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713278.795556_16311785020481.MP4",
+        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713511.306875_17191785020713.MP4",
+        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713358.709521_16581785020561.MP4",
+        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/IMG_2945 copy.jpg",
+        "/Volumes/LaCie/2026/July - Brighton/92 - Channel Diver Brighton - Bucket Dredger/media/806713247.980774_15991785020451.MP4"
     ],
     "version": 1
 }
