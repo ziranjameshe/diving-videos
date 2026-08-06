@@ -1,0 +1,286 @@
+{
+    "album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492004.069826_13021785799206.MP4",
+                "name": "807492004.069826_13021785799206.MP4",
+                "node_uuid": "1427c29c-16c3-4809-b4ed-46b8ba9ab71e",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492618.299335_13991785799820.MP4",
+                "name": "807492618.299335_13991785799820.MP4",
+                "node_uuid": "f29d56b4-24c1-41be-87cc-821bc6fc4ed0",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807494204.055277_15861785801407.MP4",
+                "name": "807494204.055277_15861785801407.MP4",
+                "node_uuid": "0ff393d5-0b4a-4fa9-86a0-d3b18d24f390",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807493208.36559_15131785800410.MP4",
+                "name": "807493208.36559_15131785800410.MP4",
+                "node_uuid": "5dafd176-731c-4986-b234-13fc5f324e50",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492509.143399_13671785799711.MP4",
+                "name": "807492509.143399_13671785799711.MP4",
+                "node_uuid": "2c470b15-8c77-43c3-8a5a-0c1e3330bcd3",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492880.592402_14721785800083.MP4",
+                "name": "807492880.592402_14721785800083.MP4",
+                "node_uuid": "6ce35544-bf4c-4285-abb8-a809867b0d12",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807408946.731484_11941785716149.MP4",
+                "name": "807408946.731484_11941785716149.MP4",
+                "node_uuid": "ccffb9b5-db8f-46d8-a523-f3551b7fad32",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Users/james/Downloads/IMG_3183 copy.jpg",
+                "name": "IMG_3183 copy.jpg",
+                "node_uuid": "0b5201bb-783c-4ba0-b0cd-36b5deaf1584",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Users/james/Downloads/IMG_3184.MOV",
+                "name": "IMG_3184.MOV",
+                "node_uuid": "dd90cfd1-92a4-41a8-8788-c4e4ea43aedc",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807491099.774617_12611785798302.MP4",
+                "name": "807491099.774617_12611785798302.MP4",
+                "node_uuid": "3042d82e-70f5-42fc-abc0-fd06e0a14f78",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492804.480998_14401785800006.MP4",
+                "name": "807492804.480998_14401785800006.MP4",
+                "node_uuid": "9d36b11b-2294-45c5-9e38-aa1c92c034b4",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807493754.227933_15451785800956.MP4",
+                "name": "807493754.227933_15451785800956.MP4",
+                "node_uuid": "a2099930-26cc-47a9-8918-e910c844318f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807490856.350387_12191785798058.MP4",
+                "name": "807490856.350387_12191785798058.MP4",
+                "node_uuid": "d6dfaa33-7703-4343-b15f-229a66e86b1d",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492174.855339_13351785799377.MP4",
+                "name": "807492174.855339_13351785799377.MP4",
+                "node_uuid": "f1c38c32-6f1f-4a5a-b58b-edfebd9dcca3",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807490594.546655_11921785797797.MP4",
+                "name": "807490594.546655_11921785797797.MP4",
+                "node_uuid": "70ef3929-6cdc-4f87-9ceb-37d892facb05",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/ScreenRecording_08-07-2026 00-22-01_1.MP4",
+                "name": "ScreenRecording_08-07-2026 00-22-01_1.MP4",
+                "node_uuid": "36747b14-b6df-40c6-a201-f4e39c220d65",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/VID_20260802_121221_001.mp4",
+                "name": "VID_001.mp4",
+                "node_uuid": "cf290ea8-59f4-4160-ba74-46f91849925b",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "cf290ea8-59f4-4160-ba74-46f91849925b",
+            "ccffb9b5-db8f-46d8-a523-f3551b7fad32",
+            "70ef3929-6cdc-4f87-9ceb-37d892facb05",
+            "d6dfaa33-7703-4343-b15f-229a66e86b1d",
+            "3042d82e-70f5-42fc-abc0-fd06e0a14f78",
+            "1427c29c-16c3-4809-b4ed-46b8ba9ab71e",
+            "f1c38c32-6f1f-4a5a-b58b-edfebd9dcca3",
+            "2c470b15-8c77-43c3-8a5a-0c1e3330bcd3",
+            "f29d56b4-24c1-41be-87cc-821bc6fc4ed0",
+            "9d36b11b-2294-45c5-9e38-aa1c92c034b4",
+            "6ce35544-bf4c-4285-abb8-a809867b0d12",
+            "5dafd176-731c-4986-b234-13fc5f324e50",
+            "a2099930-26cc-47a9-8918-e910c844318f",
+            "0ff393d5-0b4a-4fa9-86a0-d3b18d24f390",
+            "dd90cfd1-92a4-41a8-8788-c4e4ea43aedc",
+            "0b5201bb-783c-4ba0-b0cd-36b5deaf1584",
+            "36747b14-b6df-40c6-a201-f4e39c220d65"
+        ],
+        "version": 1
+    },
+    "media_card_snapshots": {
+        "/Users/james/Downloads/IMG_3183 copy.jpg": {
+            "display_name": "IMG_3183 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Users/james/Downloads/IMG_3183 copy.jpg"
+        },
+        "/Users/james/Downloads/IMG_3184.MOV": {
+            "display_name": "IMG_3184.MOV",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Users/james/Downloads/IMG_3184.MOV"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/VID_20260802_121221_001.mp4": {
+            "display_name": "VID_001.mp4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/VID_20260802_121221_001.mp4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807408946.731484_11941785716149.MP4": {
+            "display_name": "807408946.731484_11941785716149.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807408946.731484_11941785716149.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807490594.546655_11921785797797.MP4": {
+            "display_name": "807490594.546655_11921785797797.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807490594.546655_11921785797797.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807490856.350387_12191785798058.MP4": {
+            "display_name": "807490856.350387_12191785798058.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807490856.350387_12191785798058.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807491099.774617_12611785798302.MP4": {
+            "display_name": "807491099.774617_12611785798302.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807491099.774617_12611785798302.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492004.069826_13021785799206.MP4": {
+            "display_name": "807492004.069826_13021785799206.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492004.069826_13021785799206.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492174.855339_13351785799377.MP4": {
+            "display_name": "807492174.855339_13351785799377.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492174.855339_13351785799377.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492509.143399_13671785799711.MP4": {
+            "display_name": "807492509.143399_13671785799711.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492509.143399_13671785799711.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492618.299335_13991785799820.MP4": {
+            "display_name": "807492618.299335_13991785799820.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492618.299335_13991785799820.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492804.480998_14401785800006.MP4": {
+            "display_name": "807492804.480998_14401785800006.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492804.480998_14401785800006.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492880.592402_14721785800083.MP4": {
+            "display_name": "807492880.592402_14721785800083.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492880.592402_14721785800083.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807493208.36559_15131785800410.MP4": {
+            "display_name": "807493208.36559_15131785800410.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807493208.36559_15131785800410.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807493754.227933_15451785800956.MP4": {
+            "display_name": "807493754.227933_15451785800956.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807493754.227933_15451785800956.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807494204.055277_15861785801407.MP4": {
+            "display_name": "807494204.055277_15861785801407.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807494204.055277_15861785801407.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/ScreenRecording_08-07-2026 00-22-01_1.MP4": {
+            "display_name": "ScreenRecording_08-07-2026 00-22-01_1.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/ScreenRecording_08-07-2026 00-22-01_1.MP4"
+        }
+    },
+    "tab_media_uuids": [
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492804.480998_14401785800006.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492004.069826_13021785799206.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/ScreenRecording_08-07-2026 00-22-01_1.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807494204.055277_15861785801407.MP4",
+        "/Users/james/Downloads/IMG_3184.MOV",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807408946.731484_11941785716149.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/VID_20260802_121221_001.mp4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807493754.227933_15451785800956.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807493208.36559_15131785800410.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492174.855339_13351785799377.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807490594.546655_11921785797797.MP4",
+        "/Users/james/Downloads/IMG_3183 copy.jpg",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492618.299335_13991785799820.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807491099.774617_12611785798302.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492509.143399_13671785799711.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807490856.350387_12191785798058.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/95 - Channel Diver Brighton - Indiana Wreck/media/807492880.592402_14721785800083.MP4"
+    ],
+    "version": 1
+}
