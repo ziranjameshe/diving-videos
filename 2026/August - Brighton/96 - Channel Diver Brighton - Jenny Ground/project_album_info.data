@@ -1,0 +1,206 @@
+{
+    "album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807751871.853068_13341786059073.MP4",
+                "name": "807751871.853068_13341786059073.MP4",
+                "node_uuid": "04e94cbc-4550-4d7b-ab4c-755432d6503a",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807751508.075937_10371786058710.MP4",
+                "name": "807751508.075937_10371786058710.MP4",
+                "node_uuid": "b4ce28a5-8cb3-4390-a830-af22c69d6afd",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753053.253926_25561786060255.MP4",
+                "name": "807753053.253926_25561786060255.MP4",
+                "node_uuid": "602b029a-bef9-48da-9e3c-4a3369383485",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753431.136508_30701786060633.MP4",
+                "name": "807753431.136508_30701786060633.MP4",
+                "node_uuid": "a9fd8c70-0eb8-4800-9ba9-2381cae85288",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/ScreenRecording_08-12-2026 22-19-47_1.MP4",
+                "name": "ScreenRecording_08-12-2026 22-19-47_1.MP4",
+                "node_uuid": "e56c4d8e-f92c-4d8a-bf0b-3bca947d5765",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753233.23396_28541786060435.MP4",
+                "name": "807753233.23396_28541786060435.MP4",
+                "node_uuid": "dfceee72-bc6e-4496-abdb-3347ff1babaf",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807579149.257041_12851785886352.MP4",
+                "name": "807579149.257041_12851785886352.MP4",
+                "node_uuid": "d06eda44-49aa-47bf-9322-fdeecbf7d287",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748289.171047_11391786055491.MP4",
+                "name": "807748289.171047_11391786055491.MP4",
+                "node_uuid": "32d50d0d-84c8-4df9-8e67-471d21983190",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748578.437618_19031786055780.MP4",
+                "name": "807748578.437618_19031786055780.MP4",
+                "node_uuid": "67043a2b-3bff-4873-948a-924db5e25dec",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753513.283051_32941786060715.MP4",
+                "name": "807753513.283051_32941786060715.MP4",
+                "node_uuid": "a5a60ce8-4a89-4171-9dbf-8821d93a10e8",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748356.619194_14131786055559.MP4",
+                "name": "807748356.619194_14131786055559.MP4",
+                "node_uuid": "5ddc1087-2ef6-43ef-97b2-5a8ac3765fb9",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807577462.359783_12391785884664.MP4",
+                "name": "807577462.359783_12391785884664.MP4",
+                "node_uuid": "b91634f1-92af-4cc4-a85c-fed166b390a0",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "b91634f1-92af-4cc4-a85c-fed166b390a0",
+            "d06eda44-49aa-47bf-9322-fdeecbf7d287",
+            "32d50d0d-84c8-4df9-8e67-471d21983190",
+            "5ddc1087-2ef6-43ef-97b2-5a8ac3765fb9",
+            "67043a2b-3bff-4873-948a-924db5e25dec",
+            "b4ce28a5-8cb3-4390-a830-af22c69d6afd",
+            "04e94cbc-4550-4d7b-ab4c-755432d6503a",
+            "602b029a-bef9-48da-9e3c-4a3369383485",
+            "dfceee72-bc6e-4496-abdb-3347ff1babaf",
+            "a9fd8c70-0eb8-4800-9ba9-2381cae85288",
+            "a5a60ce8-4a89-4171-9dbf-8821d93a10e8",
+            "e56c4d8e-f92c-4d8a-bf0b-3bca947d5765"
+        ],
+        "version": 1
+    },
+    "media_card_snapshots": {
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807577462.359783_12391785884664.MP4": {
+            "display_name": "807577462.359783_12391785884664.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807577462.359783_12391785884664.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807579149.257041_12851785886352.MP4": {
+            "display_name": "807579149.257041_12851785886352.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807579149.257041_12851785886352.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748289.171047_11391786055491.MP4": {
+            "display_name": "807748289.171047_11391786055491.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748289.171047_11391786055491.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748356.619194_14131786055559.MP4": {
+            "display_name": "807748356.619194_14131786055559.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748356.619194_14131786055559.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748578.437618_19031786055780.MP4": {
+            "display_name": "807748578.437618_19031786055780.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748578.437618_19031786055780.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807751508.075937_10371786058710.MP4": {
+            "display_name": "807751508.075937_10371786058710.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807751508.075937_10371786058710.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807751871.853068_13341786059073.MP4": {
+            "display_name": "807751871.853068_13341786059073.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807751871.853068_13341786059073.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753053.253926_25561786060255.MP4": {
+            "display_name": "807753053.253926_25561786060255.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753053.253926_25561786060255.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753233.23396_28541786060435.MP4": {
+            "display_name": "807753233.23396_28541786060435.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753233.23396_28541786060435.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753431.136508_30701786060633.MP4": {
+            "display_name": "807753431.136508_30701786060633.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753431.136508_30701786060633.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753513.283051_32941786060715.MP4": {
+            "display_name": "807753513.283051_32941786060715.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753513.283051_32941786060715.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/ScreenRecording_08-12-2026 22-19-47_1.MP4": {
+            "display_name": "ScreenRecording_08-12-2026 22-19-47_1.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/ScreenRecording_08-12-2026 22-19-47_1.MP4"
+        }
+    },
+    "tab_media_uuids": [
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807577462.359783_12391785884664.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748578.437618_19031786055780.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748356.619194_14131786055559.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/ScreenRecording_08-12-2026 22-19-47_1.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753053.253926_25561786060255.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753233.23396_28541786060435.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807751508.075937_10371786058710.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807748289.171047_11391786055491.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753513.283051_32941786060715.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807753431.136508_30701786060633.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807579149.257041_12851785886352.MP4",
+        "/Volumes/LaCie/2026/August - Brighton/96 - Channel Diver Brighton - Jenny Ground/media/807751871.853068_13341786059073.MP4"
+    ],
+    "version": 1
+}
