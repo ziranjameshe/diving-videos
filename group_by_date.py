@@ -23,7 +23,7 @@ def process_file(iter: int, src_file: Path, dst_path: Path, total_files: int) ->
         return
 
     percent = ("{0:." + str(1) + "f}").format(100 * (iter / float(total_files)))
-    print(f"Moving {src_file} to {dst_dir} [{percent}% Done]")
+    print(f"Moving {src_file} to {dst_dir} [{iter} / {total_files} {percent}% Done]")
 
     bash_move(src_file, dst_file)
 
