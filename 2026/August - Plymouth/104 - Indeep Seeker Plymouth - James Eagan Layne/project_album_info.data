@@ -1,0 +1,446 @@
+{
+    "album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583724.961339_13531786890927.MP4",
+                "name": "808583724.961339_13531786890927.MP4",
+                "node_uuid": "a2b69f86-1f10-42c6-960e-e0e1769f53c7",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3346 copy.jpg",
+                "name": "IMG_3346 copy.jpg",
+                "node_uuid": "f14a695f-d8e4-47ac-ba14-0d5067c38496",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3335 copy.jpg",
+                "name": "IMG_3335 copy.jpg",
+                "node_uuid": "4176eb77-2490-4cb2-97ff-bb9cc29a1d02",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3339 copy.jpg",
+                "name": "IMG_3339 copy.jpg",
+                "node_uuid": "9de0ad46-5efe-41fc-84ab-ad2679f66f31",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583623.154814_13111786890825.MP4",
+                "name": "808583623.154814_13111786890825.MP4",
+                "node_uuid": "687304e6-f334-4e05-af21-8c4182d83f96",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3344 copy.jpg",
+                "name": "IMG_3344 copy.jpg",
+                "node_uuid": "eb494f4c-eb1a-470b-a4c4-d6eee2ccd00d",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584702.421134_16321786891905.MP4",
+                "name": "808584702.421134_16321786891905.MP4",
+                "node_uuid": "b4c69bc0-aa73-44f5-b360-be44ec6bdf62",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808559687.485083_15021786866890.MP4",
+                "name": "808559687.485083_15021786866890.MP4",
+                "node_uuid": "567f31ab-bb2d-4e03-b702-046f0b195c4a",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584317.473047_15241786891519.MP4",
+                "name": "808584317.473047_15241786891519.MP4",
+                "node_uuid": "c9f663d4-10bd-48bb-97b7-0d866a360e49",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3347 copy.jpg",
+                "name": "IMG_3347 copy.jpg",
+                "node_uuid": "ccebd252-b088-4317-b26e-6708d843fc12",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3340 copy.jpg",
+                "name": "IMG_3340 copy.jpg",
+                "node_uuid": "62bca817-1c0d-4a6d-b464-48c4f722b84b",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/ScreenRecording_08-20-2026 23-38-31_1.MP4",
+                "name": "ScreenRecording_08-20-2026 23-38-31_1.MP4",
+                "node_uuid": "2021dcfb-3597-4d6e-aa90-cd0ad164b3e8",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3352 copy.jpg",
+                "name": "IMG_3352 copy.jpg",
+                "node_uuid": "80884fc0-2c81-42f7-b133-7d6ae29f9123",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808586151.269612_16641786893353.MP4",
+                "name": "808586151.269612_16641786893353.MP4",
+                "node_uuid": "516c7eb6-c217-453e-971e-589d7ecc9024",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583082.286524_12681786890285.MP4",
+                "name": "808583082.286524_12681786890285.MP4",
+                "node_uuid": "1c9d9415-cb4e-4db1-94b1-9639c7645113",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583925.320486_14281786891128.MP4",
+                "name": "808583925.320486_14281786891128.MP4",
+                "node_uuid": "b049a47a-35ef-4232-a767-4753448d2807",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583800.602831_13861786891003.MP4",
+                "name": "808583800.602831_13861786891003.MP4",
+                "node_uuid": "0c8ecc08-7275-4bd0-84f9-ee4ac46fb679",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3343 copy.jpg",
+                "name": "IMG_3343 copy.jpg",
+                "node_uuid": "0eec8bf2-2490-4efe-90fd-b64c4206e015",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808560222.478831_15681786867471.MP4",
+                "name": "808560222.478831_15681786867471.MP4",
+                "node_uuid": "f5efe809-f956-4427-89ba-fcae880741a9",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/IMG_20260815_132015_032.jpg",
+                "name": "IMG_032.jpg",
+                "node_uuid": "f4103e41-a8a1-4e86-9762-30b865e9d20d",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808559981.501363_15351786867183.MP4",
+                "name": "808559981.501363_15351786867183.MP4",
+                "node_uuid": "5fec326b-5e7f-4488-b14c-6e51afba4bd0",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584015.666381_14601786891218.MP4",
+                "name": "808584015.666381_14601786891218.MP4",
+                "node_uuid": "f263d4d5-d0ab-424b-9efc-e553ae6d4f3d",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584645.465343_16001786891848.MP4",
+                "name": "808584645.465343_16001786891848.MP4",
+                "node_uuid": "166248c8-3384-4a22-80a7-1876c62a87a3",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584094.896016_14921786891297.MP4",
+                "name": "808584094.896016_14921786891297.MP4",
+                "node_uuid": "5e2513a5-cb5c-4f0e-8f49-2aef17d90a83",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_2676.jpg",
+                "name": "IMG_2676.jpg",
+                "node_uuid": "ba162dd4-dd1d-43d0-9f23-8a3aff53a819",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/VID_20260815_130442_025.mp4",
+                "name": "VID_025.mp4",
+                "node_uuid": "a4eda1ea-a046-4559-b46d-f34eebdfb0ef",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584376.282091_15561786891578.MP4",
+                "name": "808584376.282091_15561786891578.MP4",
+                "node_uuid": "ff02c690-109f-4ad2-ae70-c1c27c928f49",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "f4103e41-a8a1-4e86-9762-30b865e9d20d",
+            "a4eda1ea-a046-4559-b46d-f34eebdfb0ef",
+            "567f31ab-bb2d-4e03-b702-046f0b195c4a",
+            "5fec326b-5e7f-4488-b14c-6e51afba4bd0",
+            "f5efe809-f956-4427-89ba-fcae880741a9",
+            "1c9d9415-cb4e-4db1-94b1-9639c7645113",
+            "687304e6-f334-4e05-af21-8c4182d83f96",
+            "a2b69f86-1f10-42c6-960e-e0e1769f53c7",
+            "0c8ecc08-7275-4bd0-84f9-ee4ac46fb679",
+            "b049a47a-35ef-4232-a767-4753448d2807",
+            "f263d4d5-d0ab-424b-9efc-e553ae6d4f3d",
+            "5e2513a5-cb5c-4f0e-8f49-2aef17d90a83",
+            "c9f663d4-10bd-48bb-97b7-0d866a360e49",
+            "ff02c690-109f-4ad2-ae70-c1c27c928f49",
+            "166248c8-3384-4a22-80a7-1876c62a87a3",
+            "b4c69bc0-aa73-44f5-b360-be44ec6bdf62",
+            "516c7eb6-c217-453e-971e-589d7ecc9024",
+            "ba162dd4-dd1d-43d0-9f23-8a3aff53a819",
+            "4176eb77-2490-4cb2-97ff-bb9cc29a1d02",
+            "9de0ad46-5efe-41fc-84ab-ad2679f66f31",
+            "62bca817-1c0d-4a6d-b464-48c4f722b84b",
+            "0eec8bf2-2490-4efe-90fd-b64c4206e015",
+            "eb494f4c-eb1a-470b-a4c4-d6eee2ccd00d",
+            "f14a695f-d8e4-47ac-ba14-0d5067c38496",
+            "ccebd252-b088-4317-b26e-6708d843fc12",
+            "80884fc0-2c81-42f7-b133-7d6ae29f9123",
+            "2021dcfb-3597-4d6e-aa90-cd0ad164b3e8"
+        ],
+        "version": 1
+    },
+    "media_card_snapshots": {
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/IMG_20260815_132015_032.jpg": {
+            "display_name": "IMG_032.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/IMG_20260815_132015_032.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/VID_20260815_130442_025.mp4": {
+            "display_name": "VID_025.mp4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/VID_20260815_130442_025.mp4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808559687.485083_15021786866890.MP4": {
+            "display_name": "808559687.485083_15021786866890.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808559687.485083_15021786866890.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808559981.501363_15351786867183.MP4": {
+            "display_name": "808559981.501363_15351786867183.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808559981.501363_15351786867183.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808560222.478831_15681786867471.MP4": {
+            "display_name": "808560222.478831_15681786867471.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808560222.478831_15681786867471.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583082.286524_12681786890285.MP4": {
+            "display_name": "808583082.286524_12681786890285.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583082.286524_12681786890285.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583623.154814_13111786890825.MP4": {
+            "display_name": "808583623.154814_13111786890825.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583623.154814_13111786890825.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583724.961339_13531786890927.MP4": {
+            "display_name": "808583724.961339_13531786890927.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583724.961339_13531786890927.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583800.602831_13861786891003.MP4": {
+            "display_name": "808583800.602831_13861786891003.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583800.602831_13861786891003.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583925.320486_14281786891128.MP4": {
+            "display_name": "808583925.320486_14281786891128.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583925.320486_14281786891128.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584015.666381_14601786891218.MP4": {
+            "display_name": "808584015.666381_14601786891218.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584015.666381_14601786891218.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584094.896016_14921786891297.MP4": {
+            "display_name": "808584094.896016_14921786891297.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584094.896016_14921786891297.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584317.473047_15241786891519.MP4": {
+            "display_name": "808584317.473047_15241786891519.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584317.473047_15241786891519.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584376.282091_15561786891578.MP4": {
+            "display_name": "808584376.282091_15561786891578.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584376.282091_15561786891578.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584645.465343_16001786891848.MP4": {
+            "display_name": "808584645.465343_16001786891848.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584645.465343_16001786891848.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584702.421134_16321786891905.MP4": {
+            "display_name": "808584702.421134_16321786891905.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584702.421134_16321786891905.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808586151.269612_16641786893353.MP4": {
+            "display_name": "808586151.269612_16641786893353.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808586151.269612_16641786893353.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_2676.jpg": {
+            "display_name": "IMG_2676.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_2676.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3335 copy.jpg": {
+            "display_name": "IMG_3335 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3335 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3339 copy.jpg": {
+            "display_name": "IMG_3339 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3339 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3340 copy.jpg": {
+            "display_name": "IMG_3340 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3340 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3343 copy.jpg": {
+            "display_name": "IMG_3343 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3343 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3344 copy.jpg": {
+            "display_name": "IMG_3344 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3344 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3346 copy.jpg": {
+            "display_name": "IMG_3346 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3346 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3347 copy.jpg": {
+            "display_name": "IMG_3347 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3347 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3352 copy.jpg": {
+            "display_name": "IMG_3352 copy.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3352 copy.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/ScreenRecording_08-20-2026 23-38-31_1.MP4": {
+            "display_name": "ScreenRecording_08-20-2026 23-38-31_1.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/ScreenRecording_08-20-2026 23-38-31_1.MP4"
+        }
+    },
+    "tab_media_uuids": [
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808559687.485083_15021786866890.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584094.896016_14921786891297.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3340 copy.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/VID_20260815_130442_025.mp4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808559981.501363_15351786867183.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3347 copy.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583082.286524_12681786890285.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584376.282091_15561786891578.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_2676.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583800.602831_13861786891003.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3346 copy.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583724.961339_13531786890927.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584702.421134_16321786891905.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3344 copy.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/IMG_20260815_132015_032.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3352 copy.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583623.154814_13111786890825.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3335 copy.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808586151.269612_16641786893353.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3339 copy.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808583925.320486_14281786891128.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584645.465343_16001786891848.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/IMG_3343 copy.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584015.666381_14601786891218.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808560222.478831_15681786867471.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/808584317.473047_15241786891519.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/104 - Indeep Seeker Plymouth - James Eagan Layne/media/ScreenRecording_08-20-2026 23-38-31_1.MP4"
+    ],
+    "version": 1
+}
