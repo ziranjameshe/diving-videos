@@ -1,0 +1,366 @@
+{
+    "album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808607357.428148_38451786914807.MP4",
+                "name": "808607357.428148_38451786914807.MP4",
+                "node_uuid": "bfe144ac-9450-4828-b220-e54ba0de6333",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608689.148586_77051786915891.MP4",
+                "name": "808608689.148586_77051786915891.MP4",
+                "node_uuid": "67ca46d8-bc2a-496c-921e-daed82ef44e1",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609308.023409_113661786916510.MP4",
+                "name": "808609308.023409_113661786916510.MP4",
+                "node_uuid": "cceb5ccd-95e6-4f82-8c18-f3244c792adc",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/IMG_3380.jpg",
+                "name": "IMG_3380.jpg",
+                "node_uuid": "a44d62d2-9d82-4d29-b8a2-263d2a87f859",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808605025.396055_25601786912227.MP4",
+                "name": "808605025.396055_25601786912227.MP4",
+                "node_uuid": "bb02dfe0-0960-4080-af05-1f828b61666b",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608434.397387_76411786915637.MP4",
+                "name": "808608434.397387_76411786915637.MP4",
+                "node_uuid": "0a53e8ff-7c99-4097-ad93-58b2fee470ea",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608138.315685_51571786915352.MP4",
+                "name": "808608138.315685_51571786915352.MP4",
+                "node_uuid": "25a8d78d-753a-40a7-9cb8-d8c5cf7c9c36",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/VID_20260816_093718_042.mp4",
+                "name": "VID_042.mp4",
+                "node_uuid": "4226fdd2-2496-432b-9044-78b91c18989c",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609817.199561_125981786917019.MP4",
+                "name": "808609817.199561_125981786917019.MP4",
+                "node_uuid": "fb3bb950-0934-4a3b-9291-eadfa1127741",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/ScreenRecording_08-23-2026 23-18-55_1.MP4",
+                "name": "ScreenRecording_08-23-2026 23-18-55_1.MP4",
+                "node_uuid": "c2fdb26b-1b1f-499a-a9d1-72190df07717",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608512.522126_76731786915715.MP4",
+                "name": "808608512.522126_76731786915715.MP4",
+                "node_uuid": "b67d0e0e-715f-4500-bb56-15a5fe678ddf",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609513.059313_114071786916715.MP4",
+                "name": "808609513.059313_114071786916715.MP4",
+                "node_uuid": "a2156b7e-5c74-4986-af49-186c24e31709",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610595.845054_126941786917798.MP4",
+                "name": "808610595.845054_126941786917798.MP4",
+                "node_uuid": "324af772-2a44-42d3-bddd-1a923bfd3593",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609196.802824_113341786916399.MP4",
+                "name": "808609196.802824_113341786916399.MP4",
+                "node_uuid": "3ab76699-e363-4b11-8134-affb7cf53479",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610002.055962_126301786917204.MP4",
+                "name": "808610002.055962_126301786917204.MP4",
+                "node_uuid": "66adeaeb-edb2-47db-8ee7-97e0314547f3",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608340.150519_63931786915542.MP4",
+                "name": "808608340.150519_63931786915542.MP4",
+                "node_uuid": "05949a6c-c6aa-4c84-9300-ed3976704956",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808607650.312587_38871786914852.MP4",
+                "name": "808607650.312587_38871786914852.MP4",
+                "node_uuid": "da458e3f-0c1c-4e46-88f8-29f4381e057f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610263.963217_126621786917466.MP4",
+                "name": "808610263.963217_126621786917466.MP4",
+                "node_uuid": "3bad9937-c9ae-43d9-a6b3-5be9ebb4a2a3",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808956719.348683_10251787263922.MP4",
+                "name": "808956719.348683_10251787263922.MP4",
+                "node_uuid": "6ee796e5-9f91-4f7c-894a-07ad7db7e624",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808604789.251629_25331786911992.MP4",
+                "name": "808604789.251629_25331786911992.MP4",
+                "node_uuid": "ebb9914e-9158-4b18-b719-7c9db7c6b317",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608749.418111_77371786915951.MP4",
+                "name": "808608749.418111_77371786915951.MP4",
+                "node_uuid": "a2131b27-d511-4629-a301-db669dca868c",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610749.064891_127271786917952.MP4",
+                "name": "808610749.064891_127271786917952.MP4",
+                "node_uuid": "eb0f3c31-aaa2-4e82-ba00-e52359516f1e",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "4226fdd2-2496-432b-9044-78b91c18989c",
+            "ebb9914e-9158-4b18-b719-7c9db7c6b317",
+            "bb02dfe0-0960-4080-af05-1f828b61666b",
+            "bfe144ac-9450-4828-b220-e54ba0de6333",
+            "da458e3f-0c1c-4e46-88f8-29f4381e057f",
+            "25a8d78d-753a-40a7-9cb8-d8c5cf7c9c36",
+            "05949a6c-c6aa-4c84-9300-ed3976704956",
+            "0a53e8ff-7c99-4097-ad93-58b2fee470ea",
+            "b67d0e0e-715f-4500-bb56-15a5fe678ddf",
+            "67ca46d8-bc2a-496c-921e-daed82ef44e1",
+            "a2131b27-d511-4629-a301-db669dca868c",
+            "3ab76699-e363-4b11-8134-affb7cf53479",
+            "cceb5ccd-95e6-4f82-8c18-f3244c792adc",
+            "a2156b7e-5c74-4986-af49-186c24e31709",
+            "fb3bb950-0934-4a3b-9291-eadfa1127741",
+            "66adeaeb-edb2-47db-8ee7-97e0314547f3",
+            "3bad9937-c9ae-43d9-a6b3-5be9ebb4a2a3",
+            "324af772-2a44-42d3-bddd-1a923bfd3593",
+            "eb0f3c31-aaa2-4e82-ba00-e52359516f1e",
+            "6ee796e5-9f91-4f7c-894a-07ad7db7e624",
+            "a44d62d2-9d82-4d29-b8a2-263d2a87f859",
+            "c2fdb26b-1b1f-499a-a9d1-72190df07717"
+        ],
+        "version": 1
+    },
+    "media_card_snapshots": {
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/VID_20260816_093718_042.mp4": {
+            "display_name": "VID_042.mp4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/VID_20260816_093718_042.mp4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808604789.251629_25331786911992.MP4": {
+            "display_name": "808604789.251629_25331786911992.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808604789.251629_25331786911992.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808605025.396055_25601786912227.MP4": {
+            "display_name": "808605025.396055_25601786912227.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808605025.396055_25601786912227.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808607357.428148_38451786914807.MP4": {
+            "display_name": "808607357.428148_38451786914807.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808607357.428148_38451786914807.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808607650.312587_38871786914852.MP4": {
+            "display_name": "808607650.312587_38871786914852.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808607650.312587_38871786914852.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608138.315685_51571786915352.MP4": {
+            "display_name": "808608138.315685_51571786915352.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608138.315685_51571786915352.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608340.150519_63931786915542.MP4": {
+            "display_name": "808608340.150519_63931786915542.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608340.150519_63931786915542.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608434.397387_76411786915637.MP4": {
+            "display_name": "808608434.397387_76411786915637.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608434.397387_76411786915637.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608512.522126_76731786915715.MP4": {
+            "display_name": "808608512.522126_76731786915715.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608512.522126_76731786915715.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608689.148586_77051786915891.MP4": {
+            "display_name": "808608689.148586_77051786915891.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608689.148586_77051786915891.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608749.418111_77371786915951.MP4": {
+            "display_name": "808608749.418111_77371786915951.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608749.418111_77371786915951.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609196.802824_113341786916399.MP4": {
+            "display_name": "808609196.802824_113341786916399.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609196.802824_113341786916399.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609308.023409_113661786916510.MP4": {
+            "display_name": "808609308.023409_113661786916510.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609308.023409_113661786916510.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609513.059313_114071786916715.MP4": {
+            "display_name": "808609513.059313_114071786916715.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609513.059313_114071786916715.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609817.199561_125981786917019.MP4": {
+            "display_name": "808609817.199561_125981786917019.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609817.199561_125981786917019.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610002.055962_126301786917204.MP4": {
+            "display_name": "808610002.055962_126301786917204.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610002.055962_126301786917204.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610263.963217_126621786917466.MP4": {
+            "display_name": "808610263.963217_126621786917466.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610263.963217_126621786917466.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610595.845054_126941786917798.MP4": {
+            "display_name": "808610595.845054_126941786917798.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610595.845054_126941786917798.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610749.064891_127271786917952.MP4": {
+            "display_name": "808610749.064891_127271786917952.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610749.064891_127271786917952.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808956719.348683_10251787263922.MP4": {
+            "display_name": "808956719.348683_10251787263922.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808956719.348683_10251787263922.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/IMG_3380.jpg": {
+            "display_name": "IMG_3380.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/IMG_3380.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/ScreenRecording_08-23-2026 23-18-55_1.MP4": {
+            "display_name": "ScreenRecording_08-23-2026 23-18-55_1.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/ScreenRecording_08-23-2026 23-18-55_1.MP4"
+        }
+    },
+    "tab_media_uuids": [
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608340.150519_63931786915542.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/VID_20260816_093718_042.mp4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610749.064891_127271786917952.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608512.522126_76731786915715.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609513.059313_114071786916715.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609308.023409_113661786916510.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608138.315685_51571786915352.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609817.199561_125981786917019.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608749.418111_77371786915951.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808607357.428148_38451786914807.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808605025.396055_25601786912227.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808607650.312587_38871786914852.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808609196.802824_113341786916399.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808956719.348683_10251787263922.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608434.397387_76411786915637.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610263.963217_126621786917466.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/IMG_3380.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808604789.251629_25331786911992.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610002.055962_126301786917204.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808608689.148586_77051786915891.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/808610595.845054_126941786917798.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/105 - Indeep Seeker Plymouth - SS Persier/media/ScreenRecording_08-23-2026 23-18-55_1.MP4"
+    ],
+    "version": 1
+}
