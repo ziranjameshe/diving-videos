@@ -1,0 +1,270 @@
+{
+    "album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808646602.753024_17841786953806.MP4",
+                "name": "808646602.753024_17841786953806.MP4",
+                "node_uuid": "77ba5a62-829a-493d-9396-c04866cb922e",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648009.177036_40231786955211.MP4",
+                "name": "808648009.177036_40231786955211.MP4",
+                "node_uuid": "38ea1ca2-7450-4c23-a0bb-4a807a58abee",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648936.680644_62471786956147.MP4",
+                "name": "808648936.680644_62471786956147.MP4",
+                "node_uuid": "cbc71255-1d09-4d1e-9274-27f2573f079f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654253.403331_74581786961455.MP4",
+                "name": "808654253.403331_74581786961455.MP4",
+                "node_uuid": "2183c128-acf2-485f-9258-768467275d63",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654490.526852_74911786961696.MP4",
+                "name": "808654490.526852_74911786961696.MP4",
+                "node_uuid": "90fef74d-df3e-4e23-beb9-2419cac5b2d8",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648273.288648_40551786955492.MP4",
+                "name": "808648273.288648_40551786955492.MP4",
+                "node_uuid": "2172520f-0f75-4b70-a196-3705a3ce2a74",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808611060.915344_150451786918264.MP4",
+                "name": "808611060.915344_150451786918264.MP4",
+                "node_uuid": "e6417ebb-238f-4738-9ddf-fad6a9db2067",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/IMG_3381.jpg",
+                "name": "IMG_3381.jpg",
+                "node_uuid": "1179af8f-3eab-4d40-b977-3c01c5eba866",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648715.367677_51551786955917.MP4",
+                "name": "808648715.367677_51551786955917.MP4",
+                "node_uuid": "c820efa2-4ff0-4556-968f-f8d2dcfec16f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649142.642655_62831786956345.MP4",
+                "name": "808649142.642655_62831786956345.MP4",
+                "node_uuid": "29777490-fc82-40eb-9f63-dfde9cab7047",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649521.412679_63511786956723.MP4",
+                "name": "808649521.412679_63511786956723.MP4",
+                "node_uuid": "db26697c-4327-41bb-b46a-6dd7a4caa3f9",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649297.300946_63171786956500.MP4",
+                "name": "808649297.300946_63171786956500.MP4",
+                "node_uuid": "82abe99f-eebd-4a74-a578-984405440184",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/VID_20260816_114118_065.mp4",
+                "name": "VID_065.mp4",
+                "node_uuid": "b04d01c5-476c-4132-acc7-47c5cf34ff1e",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/ScreenRecording_08-31-2026 03-18-03_1.MP4",
+                "name": "ScreenRecording_08-31-2026 03-18-03_1.MP4",
+                "node_uuid": "c8867c7e-a066-4994-9306-219f9c8386ac",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808647505.419669_39901786954708.MP4",
+                "name": "808647505.419669_39901786954708.MP4",
+                "node_uuid": "519aed91-04f8-42ce-b63d-66ce9fcd58fc",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654119.447456_74251786961321.MP4",
+                "name": "808654119.447456_74251786961321.MP4",
+                "node_uuid": "29b0e3c3-fd3c-4062-997b-bcdcd84a69c9",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "e6417ebb-238f-4738-9ddf-fad6a9db2067",
+            "77ba5a62-829a-493d-9396-c04866cb922e",
+            "519aed91-04f8-42ce-b63d-66ce9fcd58fc",
+            "38ea1ca2-7450-4c23-a0bb-4a807a58abee",
+            "2172520f-0f75-4b70-a196-3705a3ce2a74",
+            "c820efa2-4ff0-4556-968f-f8d2dcfec16f",
+            "cbc71255-1d09-4d1e-9274-27f2573f079f",
+            "29777490-fc82-40eb-9f63-dfde9cab7047",
+            "82abe99f-eebd-4a74-a578-984405440184",
+            "db26697c-4327-41bb-b46a-6dd7a4caa3f9",
+            "29b0e3c3-fd3c-4062-997b-bcdcd84a69c9",
+            "2183c128-acf2-485f-9258-768467275d63",
+            "90fef74d-df3e-4e23-beb9-2419cac5b2d8",
+            "b04d01c5-476c-4132-acc7-47c5cf34ff1e",
+            "1179af8f-3eab-4d40-b977-3c01c5eba866",
+            "c8867c7e-a066-4994-9306-219f9c8386ac"
+        ],
+        "version": 1
+    },
+    "media_card_snapshots": {
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/VID_20260816_114118_065.mp4": {
+            "display_name": "VID_065.mp4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/VID_20260816_114118_065.mp4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808611060.915344_150451786918264.MP4": {
+            "display_name": "808611060.915344_150451786918264.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808611060.915344_150451786918264.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808646602.753024_17841786953806.MP4": {
+            "display_name": "808646602.753024_17841786953806.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808646602.753024_17841786953806.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808647505.419669_39901786954708.MP4": {
+            "display_name": "808647505.419669_39901786954708.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808647505.419669_39901786954708.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648009.177036_40231786955211.MP4": {
+            "display_name": "808648009.177036_40231786955211.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648009.177036_40231786955211.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648273.288648_40551786955492.MP4": {
+            "display_name": "808648273.288648_40551786955492.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648273.288648_40551786955492.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648715.367677_51551786955917.MP4": {
+            "display_name": "808648715.367677_51551786955917.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648715.367677_51551786955917.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648936.680644_62471786956147.MP4": {
+            "display_name": "808648936.680644_62471786956147.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648936.680644_62471786956147.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649142.642655_62831786956345.MP4": {
+            "display_name": "808649142.642655_62831786956345.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649142.642655_62831786956345.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649297.300946_63171786956500.MP4": {
+            "display_name": "808649297.300946_63171786956500.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649297.300946_63171786956500.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649521.412679_63511786956723.MP4": {
+            "display_name": "808649521.412679_63511786956723.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649521.412679_63511786956723.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654119.447456_74251786961321.MP4": {
+            "display_name": "808654119.447456_74251786961321.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654119.447456_74251786961321.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654253.403331_74581786961455.MP4": {
+            "display_name": "808654253.403331_74581786961455.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654253.403331_74581786961455.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654490.526852_74911786961696.MP4": {
+            "display_name": "808654490.526852_74911786961696.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654490.526852_74911786961696.MP4"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/IMG_3381.jpg": {
+            "display_name": "IMG_3381.jpg",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/IMG_3381.jpg"
+        },
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/ScreenRecording_08-31-2026 03-18-03_1.MP4": {
+            "display_name": "ScreenRecording_08-31-2026 03-18-03_1.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/ScreenRecording_08-31-2026 03-18-03_1.MP4"
+        }
+    },
+    "tab_media_uuids": [
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808647505.419669_39901786954708.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/VID_20260816_114118_065.mp4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648936.680644_62471786956147.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654253.403331_74581786961455.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649142.642655_62831786956345.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654490.526852_74911786961696.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808646602.753024_17841786953806.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/ScreenRecording_08-31-2026 03-18-03_1.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648715.367677_51551786955917.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648009.177036_40231786955211.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808611060.915344_150451786918264.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649297.300946_63171786956500.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808648273.288648_40551786955492.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808649521.412679_63511786956723.MP4",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/IMG_3381.jpg",
+        "/Volumes/LaCie/2026/August - Plymouth/106 - Indeep Seeker Plymouth - Hillsea Point/media/808654119.447456_74251786961321.MP4"
+    ],
+    "version": 1
+}
