@@ -1,0 +1,3375 @@
+{
+    "aspectRatio": "16:9",
+    "autoFps": false,
+    "creationTime": "2026.10.11 20:27:27",
+    "enableEffects": true,
+    "fps": 60,
+    "frames": 29725,
+    "hdrColorSpaceAdaptAccepted": false,
+    "hdrPreviewEnabled": false,
+    "id": "8220df03-a67b-42c6-a738-7e1d77dfc12c",
+    "isPanoramic": false,
+    "lastModifiedTime": "2026.10.12 21:57:46",
+    "mainMagnetizable": true,
+    "markTrimEnd": 29270,
+    "markTrimIn": 0,
+    "markTrimVisible": false,
+    "name": "113 Fun Dive - Wraysbury - Dive 3",
+    "projectPath": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3",
+    "skipHdrColorSpaceAdaptDialog": false,
+    "tracks": [
+        {
+            "audible": true,
+            "clips": [
+            ],
+            "id": "1890980b-14d2-48bc-a341-911c39c316c7",
+            "locked": false,
+            "transitions": [
+            ],
+            "type": 2,
+            "visible": true,
+            "z": -1
+        },
+        {
+            "audible": true,
+            "clips": [
+                {
+                    "default_factor": 1,
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "id": "8e394ead-f4b4-4d70-92ad-1b2f01cbd97f",
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "name": "",
+                    "online": true,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "0A1EF012-4031-4EC4-8A2B-24F30DBF2382",
+                    "rightTrim": -99,
+                    "rotation": 0,
+                    "roughTrimmed": false,
+                    "scale": 1,
+                    "sourceFrames": 180,
+                    "source_left_trim": 0,
+                    "source_right_trim": -99,
+                    "source_total_frames": 180,
+                    "srcId": "",
+                    "startFrame": 208,
+                    "state": 0,
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "texts": [
+                        {
+                            "color": "#ffffff",
+                            "font": "Gilroy [Gilroy-SemiBold]",
+                            "index": 0,
+                            "text": "Dive 113 - Fun Dive - Wraysbury - Dive 3"
+                        },
+                        {
+                            "color": "#ffffff",
+                            "font": "Noto Sans [NotoSans-Bold]",
+                            "index": 1,
+                            "text": "12"
+                        },
+                        {
+                            "color": "#ffffff",
+                            "font": "Gilroy [Gilroy-SemiBold]",
+                            "index": 2,
+                            "text": "Sunday, 4th of October 2026"
+                        },
+                        {
+                            "color": "#ffffff",
+                            "font": "Noto Sans [NotoSans-Bold]",
+                            "index": 3,
+                            "text": "14"
+                        }
+                    ],
+                    "type": 7,
+                    "url": "/Users/james/Documents/Insta360/Studio/Download/text/0A1EF012-4031-4EC4-8A2B-24F30DBF2382/1785164031858/config_package/0A1EF012-4031-4EC4-8A2B-24F30DBF2382/0A1EF012-4031-4EC4-8A2B-24F30DBF2382.3.compoundcaption",
+                    "x": 0,
+                    "y": -300
+                },
+                {
+                    "color": "#ffffff",
+                    "default_factor": 1,
+                    "font": "PingFang SC",
+                    "fontSize": 72,
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "id": "d5e57828-152b-4895-be8d-0cc0a608c75f",
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "name": "Default text",
+                    "online": true,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "528B6AFF-72F6-4F17-A38D-13AB5775EE30",
+                    "rightTrim": -54,
+                    "rotation": 0,
+                    "roughTrimmed": false,
+                    "scale": 0.6,
+                    "sourceFrames": 180,
+                    "source_left_trim": 0,
+                    "source_right_trim": -54,
+                    "source_total_frames": 180,
+                    "srcId": "",
+                    "startFrame": 893,
+                    "state": 0,
+                    "strokeColor": "#000000",
+                    "strokeSize": 2,
+                    "strokeable": false,
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "text": "My buddy left early, so I am diving\nwith some other divers this dive",
+                    "type": 3,
+                    "url": "",
+                    "x": 0,
+                    "y": -616
+                },
+                {
+                    "color": "#ffffff",
+                    "default_factor": 1,
+                    "font": "PingFang SC",
+                    "fontSize": 72,
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "id": "6db03186-3976-426a-91bf-6d1057e399a9",
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "name": "Default text",
+                    "online": true,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "528B6AFF-72F6-4F17-A38D-13AB5775EE30",
+                    "rightTrim": -424,
+                    "rotation": 0,
+                    "roughTrimmed": false,
+                    "scale": 0.6,
+                    "sourceFrames": 180,
+                    "source_left_trim": 0,
+                    "source_right_trim": -424,
+                    "source_total_frames": 180,
+                    "srcId": "",
+                    "startFrame": 2369,
+                    "state": 0,
+                    "strokeColor": "#000000",
+                    "strokeSize": 2,
+                    "strokeable": false,
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "text": "I wonder maybe the reason why the vis\nis so bad at Wrasbury is because there are\nairplanes flying over it all the time...",
+                    "type": 3,
+                    "url": "",
+                    "x": 0,
+                    "y": -28
+                },
+                {
+                    "color": "#ffffff",
+                    "default_factor": 1,
+                    "font": "PingFang SC",
+                    "fontSize": 72,
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "id": "c2735831-fcef-4c59-bf65-d2cb870e7038",
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "name": "Default text",
+                    "online": true,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "528B6AFF-72F6-4F17-A38D-13AB5775EE30",
+                    "rightTrim": -59,
+                    "rotation": 0,
+                    "roughTrimmed": false,
+                    "scale": 0.7,
+                    "sourceFrames": 180,
+                    "source_left_trim": 0,
+                    "source_right_trim": -59,
+                    "source_total_frames": 180,
+                    "srcId": "",
+                    "startFrame": 9192,
+                    "state": 0,
+                    "strokeColor": "#000000",
+                    "strokeSize": 2,
+                    "strokeable": false,
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "text": "59 mins later...\nFinally found the airplane",
+                    "type": 3,
+                    "url": "",
+                    "x": 0,
+                    "y": -100
+                },
+                {
+                    "color": "#ffffff",
+                    "default_factor": 1,
+                    "font": "PingFang SC",
+                    "fontSize": 72,
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "id": "8b7b80be-763e-40e1-9615-0d1c5a6d1c0b",
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "name": "Default text",
+                    "online": true,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "528B6AFF-72F6-4F17-A38D-13AB5775EE30",
+                    "rightTrim": -44,
+                    "rotation": 0,
+                    "roughTrimmed": false,
+                    "scale": 0.7,
+                    "sourceFrames": 180,
+                    "source_left_trim": 0,
+                    "source_right_trim": -44,
+                    "source_total_frames": 180,
+                    "srcId": "",
+                    "startFrame": 10552,
+                    "state": 0,
+                    "strokeColor": "#000000",
+                    "strokeSize": 2,
+                    "strokeable": false,
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "text": "Such a cool place to explore",
+                    "type": 3,
+                    "url": "",
+                    "x": 0,
+                    "y": -373
+                },
+                {
+                    "color": "#ffffff",
+                    "default_factor": 1,
+                    "font": "PingFang SC",
+                    "fontSize": 72,
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "id": "7685cec9-f3e7-4d49-b5e9-c9616af455ed",
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "name": "Default text",
+                    "online": true,
+                    "play_rate_track": {
+                    },
+                    "ratio": 8,
+                    "resourceId": "528B6AFF-72F6-4F17-A38D-13AB5775EE30",
+                    "rightTrim": -46,
+                    "rotation": 0,
+                    "roughTrimmed": false,
+                    "scale": 0.7,
+                    "sourceFrames": 180,
+                    "source_left_trim": 0,
+                    "source_right_trim": -46,
+                    "source_total_frames": 180,
+                    "srcId": "",
+                    "startFrame": 12178,
+                    "state": 0,
+                    "strokeColor": "#000000",
+                    "strokeSize": 2,
+                    "strokeable": false,
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "text": "I will put the toilet seat\ndown next time",
+                    "type": 3,
+                    "url": "",
+                    "x": -145,
+                    "y": -706
+                }
+            ],
+            "id": "23911f9d-2073-4377-a082-dbac720744f1",
+            "locked": false,
+            "transitions": [
+            ],
+            "type": 3,
+            "visible": true,
+            "z": 1
+        },
+        {
+            "audible": true,
+            "clips": [
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "asteroidPitchOffset": 0,
+                    "audio_setting": {
+                        "audioDetached": false,
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "preDetachVolume": 100,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "baseViewAutoApplied": false,
+                    "camera_movement": {
+                        "bottom_by_category": [
+                        ],
+                        "camera_movement_models": [
+                        ],
+                        "distance": 0.6,
+                        "fov": 1.3089969389957472,
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "view_category_filter": 1,
+                        "yaw_offset": 0
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "dashboard_setting": {
+                        "dashboardDataId": "",
+                        "dashboardDataType": 0,
+                        "dashboardSourceType": "TypeNoneData",
+                        "dashboardStyle": "",
+                        "enableDashboard": true,
+                        "supportDashboard": true
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "",
+                        "save_path": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/113 Fun Dive - Wraysbury - Dive 3/c4049e61-34e6-45f8-b626-6b324141dc5f"
+                    },
+                    "default_factor": 1,
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "effect_filter": {
+                        "externfilterId": "",
+                        "externfilterName": "",
+                        "externfilterOpacity": 70,
+                        "externfilterResourcePath": ""
+                    },
+                    "enable_user_keyframe": true,
+                    "flat_logo_watermark": {
+                        "clipAspectRatio": 8,
+                        "enableFlatLogoWatermark": false,
+                        "flatLogoWatermarkTransparency": 100,
+                        "logoWatermarkLocationType": 0,
+                        "selectedLogoWatermarkPath": "/Users/james/Documents/Insta360/Studio/Download/watermark/app/active/54/resource/insta360.png"
+                    },
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "hdrPreviewEnabled": false,
+                    "hdrPreviewUserToggled": false,
+                    "head_track": {
+                        "distance": 0.4,
+                        "fov": 1.1811122659621356,
+                        "head_track_list": [
+                        ],
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "yaw_offset": 0
+                    },
+                    "highlight_data": false,
+                    "id": "c4049e61-34e6-45f8-b626-6b324141dc5f",
+                    "inAsteroidMode": false,
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "legacy_camera_movement": false,
+                    "logo_watermark": {
+                        "enableLogoWatermark": false,
+                        "logoWatermarkCornerRadius": 0,
+                        "logoWatermarkFeather": 0,
+                        "logoWatermarkLocationType": 0,
+                        "logoWatermarkRotate": 0,
+                        "logoWatermarkSize": 30,
+                        "selectedLogoWatermarkPath": ":resource/default_logo_0.png"
+                    },
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enablePureShot": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportPureShot": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "812888511.538716_99591791195714.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "panoAnimationPresetId": -1,
+                    "play_rate_track": {
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 758,
+                    "source_left_trim": 0,
+                    "source_right_trim": 0,
+                    "source_total_frames": 758,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 0,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "propellerGuardStatus": 0,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "time_watermark": {
+                        "enableTimeWatermark": false,
+                        "timeWatermarkFormat": 1,
+                        "timeWatermarkTransparency": 100
+                    },
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/media/812888511.538716_99591791195714.MP4",
+                    "userRotateDegree": 0,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "asteroidPitchOffset": 0,
+                    "audio_setting": {
+                        "audioDetached": false,
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "preDetachVolume": 100,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "baseViewAutoApplied": false,
+                    "camera_movement": {
+                        "bottom_by_category": [
+                        ],
+                        "camera_movement_models": [
+                        ],
+                        "distance": 0.6,
+                        "fov": 1.3089969389957472,
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "view_category_filter": 1,
+                        "yaw_offset": 0
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "dashboard_setting": {
+                        "dashboardDataId": "",
+                        "dashboardDataType": 0,
+                        "dashboardSourceType": "TypeNoneData",
+                        "dashboardStyle": "",
+                        "enableDashboard": true,
+                        "supportDashboard": true
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "",
+                        "save_path": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/113 Fun Dive - Wraysbury - Dive 3/7d157d38-9d01-4a6e-a3d1-e4fce7edd224"
+                    },
+                    "default_factor": 1,
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "effect_filter": {
+                        "externfilterId": "",
+                        "externfilterName": "",
+                        "externfilterOpacity": 70,
+                        "externfilterResourcePath": ""
+                    },
+                    "enable_user_keyframe": true,
+                    "flat_logo_watermark": {
+                        "clipAspectRatio": 8,
+                        "enableFlatLogoWatermark": false,
+                        "flatLogoWatermarkTransparency": 100,
+                        "logoWatermarkLocationType": 0,
+                        "selectedLogoWatermarkPath": "/Users/james/Documents/Insta360/Studio/Download/watermark/app/active/54/resource/insta360.png"
+                    },
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "hdrPreviewEnabled": false,
+                    "hdrPreviewUserToggled": false,
+                    "head_track": {
+                        "distance": 0.4,
+                        "fov": 1.1811122659621356,
+                        "head_track_list": [
+                        ],
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "yaw_offset": 0
+                    },
+                    "highlight_data": false,
+                    "id": "7d157d38-9d01-4a6e-a3d1-e4fce7edd224",
+                    "inAsteroidMode": false,
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "legacy_camera_movement": false,
+                    "logo_watermark": {
+                        "enableLogoWatermark": false,
+                        "logoWatermarkCornerRadius": 0,
+                        "logoWatermarkFeather": 0,
+                        "logoWatermarkLocationType": 0,
+                        "logoWatermarkRotate": 0,
+                        "logoWatermarkSize": 30,
+                        "selectedLogoWatermarkPath": ":resource/default_logo_0.png"
+                    },
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enablePureShot": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportPureShot": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "812888593.863028_122081791195796.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "panoAnimationPresetId": -1,
+                    "play_rate_track": {
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 702,
+                    "source_left_trim": 0,
+                    "source_right_trim": 0,
+                    "source_total_frames": 702,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 758,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "propellerGuardStatus": 0,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "time_watermark": {
+                        "enableTimeWatermark": false,
+                        "timeWatermarkFormat": 1,
+                        "timeWatermarkTransparency": 100
+                    },
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/media/812888593.863028_122081791195796.MP4",
+                    "userRotateDegree": 0,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "asteroidPitchOffset": 0,
+                    "audio_setting": {
+                        "audioDetached": false,
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "preDetachVolume": 100,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "baseViewAutoApplied": false,
+                    "camera_movement": {
+                        "bottom_by_category": [
+                        ],
+                        "camera_movement_models": [
+                        ],
+                        "distance": 0.6,
+                        "fov": 1.3089969389957472,
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "view_category_filter": 1,
+                        "yaw_offset": 0
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "dashboard_setting": {
+                        "dashboardDataId": "",
+                        "dashboardDataType": 0,
+                        "dashboardSourceType": "TypeNoneData",
+                        "dashboardStyle": "",
+                        "enableDashboard": true,
+                        "supportDashboard": true
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "",
+                        "save_path": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/113 Fun Dive - Wraysbury - Dive 3/cf906da8-5b8e-44d7-9f5d-33fdf1d2fcd0"
+                    },
+                    "default_factor": 1,
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "effect_filter": {
+                        "externfilterId": "",
+                        "externfilterName": "",
+                        "externfilterOpacity": 70,
+                        "externfilterResourcePath": ""
+                    },
+                    "enable_user_keyframe": true,
+                    "flat_logo_watermark": {
+                        "clipAspectRatio": 8,
+                        "enableFlatLogoWatermark": false,
+                        "flatLogoWatermarkTransparency": 100,
+                        "logoWatermarkLocationType": 0,
+                        "selectedLogoWatermarkPath": "/Users/james/Documents/Insta360/Studio/Download/watermark/app/active/54/resource/insta360.png"
+                    },
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "hdrPreviewEnabled": false,
+                    "hdrPreviewUserToggled": false,
+                    "head_track": {
+                        "distance": 0.4,
+                        "fov": 1.1811122659621356,
+                        "head_track_list": [
+                        ],
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "yaw_offset": 0
+                    },
+                    "highlight_data": false,
+                    "id": "cf906da8-5b8e-44d7-9f5d-33fdf1d2fcd0",
+                    "inAsteroidMode": false,
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "legacy_camera_movement": false,
+                    "logo_watermark": {
+                        "enableLogoWatermark": false,
+                        "logoWatermarkCornerRadius": 0,
+                        "logoWatermarkFeather": 0,
+                        "logoWatermarkLocationType": 0,
+                        "logoWatermarkRotate": 0,
+                        "logoWatermarkSize": 30,
+                        "selectedLogoWatermarkPath": ":resource/default_logo_0.png"
+                    },
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enablePureShot": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportPureShot": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "812888687.154426_133301791195889.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "panoAnimationPresetId": -1,
+                    "play_rate_track": {
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 2147,
+                    "source_left_trim": 0,
+                    "source_right_trim": 0,
+                    "source_total_frames": 2147,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 1460,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "propellerGuardStatus": 0,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "time_watermark": {
+                        "enableTimeWatermark": false,
+                        "timeWatermarkFormat": 1,
+                        "timeWatermarkTransparency": 100
+                    },
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/media/812888687.154426_133301791195889.MP4",
+                    "userRotateDegree": 0,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "asteroidPitchOffset": 0,
+                    "audio_setting": {
+                        "audioDetached": false,
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "preDetachVolume": 100,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "baseViewAutoApplied": false,
+                    "camera_movement": {
+                        "bottom_by_category": [
+                        ],
+                        "camera_movement_models": [
+                        ],
+                        "distance": 0.6,
+                        "fov": 1.3089969389957472,
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "view_category_filter": 1,
+                        "yaw_offset": 0
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "dashboard_setting": {
+                        "dashboardDataId": "",
+                        "dashboardDataType": 0,
+                        "dashboardSourceType": "TypeNoneData",
+                        "dashboardStyle": "",
+                        "enableDashboard": true,
+                        "supportDashboard": true
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "",
+                        "save_path": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/113 Fun Dive - Wraysbury - Dive 3/62befbcf-7de8-4e53-bb76-f14a7905c536"
+                    },
+                    "default_factor": 1,
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "effect_filter": {
+                        "externfilterId": "",
+                        "externfilterName": "",
+                        "externfilterOpacity": 70,
+                        "externfilterResourcePath": ""
+                    },
+                    "enable_user_keyframe": true,
+                    "flat_logo_watermark": {
+                        "clipAspectRatio": 8,
+                        "enableFlatLogoWatermark": false,
+                        "flatLogoWatermarkTransparency": 100,
+                        "logoWatermarkLocationType": 0,
+                        "selectedLogoWatermarkPath": "/Users/james/Documents/Insta360/Studio/Download/watermark/app/active/54/resource/insta360.png"
+                    },
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "hdrPreviewEnabled": false,
+                    "hdrPreviewUserToggled": false,
+                    "head_track": {
+                        "distance": 0.4,
+                        "fov": 1.1811122659621356,
+                        "head_track_list": [
+                        ],
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "yaw_offset": 0
+                    },
+                    "highlight_data": false,
+                    "id": "62befbcf-7de8-4e53-bb76-f14a7905c536",
+                    "inAsteroidMode": false,
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "legacy_camera_movement": false,
+                    "logo_watermark": {
+                        "enableLogoWatermark": false,
+                        "logoWatermarkCornerRadius": 0,
+                        "logoWatermarkFeather": 0,
+                        "logoWatermarkLocationType": 0,
+                        "logoWatermarkRotate": 0,
+                        "logoWatermarkSize": 30,
+                        "selectedLogoWatermarkPath": ":resource/default_logo_0.png"
+                    },
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enablePureShot": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportPureShot": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "812888819.301718_145041791196021.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "panoAnimationPresetId": -1,
+                    "play_rate_track": {
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 5462,
+                    "source_left_trim": 0,
+                    "source_right_trim": 0,
+                    "source_total_frames": 5462,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 3607,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "propellerGuardStatus": 0,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "time_watermark": {
+                        "enableTimeWatermark": false,
+                        "timeWatermarkFormat": 1,
+                        "timeWatermarkTransparency": 100
+                    },
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/media/812888819.301718_145041791196021.MP4",
+                    "userRotateDegree": 0,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "asteroidPitchOffset": 0,
+                    "audio_setting": {
+                        "audioDetached": false,
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "preDetachVolume": 100,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "baseViewAutoApplied": false,
+                    "camera_movement": {
+                        "bottom_by_category": [
+                        ],
+                        "camera_movement_models": [
+                        ],
+                        "distance": 0.6,
+                        "fov": 1.3089969389957472,
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "view_category_filter": 1,
+                        "yaw_offset": 0
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "dashboard_setting": {
+                        "dashboardDataId": "",
+                        "dashboardDataType": 0,
+                        "dashboardSourceType": "TypeNoneData",
+                        "dashboardStyle": "",
+                        "enableDashboard": true,
+                        "supportDashboard": true
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "",
+                        "save_path": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/113 Fun Dive - Wraysbury - Dive 3/ba3645dc-87fa-4705-b1e8-6a1b4f10a287"
+                    },
+                    "default_factor": 1,
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "effect_filter": {
+                        "externfilterId": "",
+                        "externfilterName": "",
+                        "externfilterOpacity": 70,
+                        "externfilterResourcePath": ""
+                    },
+                    "enable_user_keyframe": true,
+                    "flat_logo_watermark": {
+                        "clipAspectRatio": 8,
+                        "enableFlatLogoWatermark": false,
+                        "flatLogoWatermarkTransparency": 100,
+                        "logoWatermarkLocationType": 0,
+                        "selectedLogoWatermarkPath": "/Users/james/Documents/Insta360/Studio/Download/watermark/app/active/54/resource/insta360.png"
+                    },
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "hdrPreviewEnabled": false,
+                    "hdrPreviewUserToggled": false,
+                    "head_track": {
+                        "distance": 0.4,
+                        "fov": 1.1811122659621356,
+                        "head_track_list": [
+                        ],
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "yaw_offset": 0
+                    },
+                    "highlight_data": false,
+                    "id": "ba3645dc-87fa-4705-b1e8-6a1b4f10a287",
+                    "inAsteroidMode": false,
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "legacy_camera_movement": false,
+                    "logo_watermark": {
+                        "enableLogoWatermark": false,
+                        "logoWatermarkCornerRadius": 0,
+                        "logoWatermarkFeather": 0,
+                        "logoWatermarkLocationType": 0,
+                        "logoWatermarkRotate": 0,
+                        "logoWatermarkSize": 30,
+                        "selectedLogoWatermarkPath": ":resource/default_logo_0.png"
+                    },
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enablePureShot": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportPureShot": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "812889102.394948_145651791196305.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "panoAnimationPresetId": -1,
+                    "play_rate_track": {
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 6306,
+                    "source_left_trim": 0,
+                    "source_right_trim": 0,
+                    "source_total_frames": 6306,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 9069,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "propellerGuardStatus": 0,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "time_watermark": {
+                        "enableTimeWatermark": false,
+                        "timeWatermarkFormat": 1,
+                        "timeWatermarkTransparency": 100
+                    },
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/media/812889102.394948_145651791196305.MP4",
+                    "userRotateDegree": 0,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "asteroidPitchOffset": 0,
+                    "audio_setting": {
+                        "audioDetached": false,
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "preDetachVolume": 100,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "baseViewAutoApplied": false,
+                    "camera_movement": {
+                        "bottom_by_category": [
+                        ],
+                        "camera_movement_models": [
+                        ],
+                        "distance": 0.6,
+                        "fov": 1.3089969389957472,
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "view_category_filter": 1,
+                        "yaw_offset": 0
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "dashboard_setting": {
+                        "dashboardDataId": "",
+                        "dashboardDataType": 0,
+                        "dashboardSourceType": "TypeNoneData",
+                        "dashboardStyle": "",
+                        "enableDashboard": true,
+                        "supportDashboard": true
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "",
+                        "save_path": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/113 Fun Dive - Wraysbury - Dive 3/9dc1e499-63d2-4f8b-a0ce-ed4e073fc401"
+                    },
+                    "default_factor": 1,
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "effect_filter": {
+                        "externfilterId": "",
+                        "externfilterName": "",
+                        "externfilterOpacity": 70,
+                        "externfilterResourcePath": ""
+                    },
+                    "enable_user_keyframe": true,
+                    "flat_logo_watermark": {
+                        "clipAspectRatio": 8,
+                        "enableFlatLogoWatermark": false,
+                        "flatLogoWatermarkTransparency": 100,
+                        "logoWatermarkLocationType": 0,
+                        "selectedLogoWatermarkPath": "/Users/james/Documents/Insta360/Studio/Download/watermark/app/active/54/resource/insta360.png"
+                    },
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "hdrPreviewEnabled": false,
+                    "hdrPreviewUserToggled": false,
+                    "head_track": {
+                        "distance": 0.4,
+                        "fov": 1.1811122659621356,
+                        "head_track_list": [
+                        ],
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "yaw_offset": 0
+                    },
+                    "highlight_data": false,
+                    "id": "9dc1e499-63d2-4f8b-a0ce-ed4e073fc401",
+                    "inAsteroidMode": false,
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "legacy_camera_movement": false,
+                    "logo_watermark": {
+                        "enableLogoWatermark": false,
+                        "logoWatermarkCornerRadius": 0,
+                        "logoWatermarkFeather": 0,
+                        "logoWatermarkLocationType": 0,
+                        "logoWatermarkRotate": 0,
+                        "logoWatermarkSize": 30,
+                        "selectedLogoWatermarkPath": ":resource/default_logo_0.png"
+                    },
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enablePureShot": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportPureShot": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "812889469.216158_156841791196671.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "panoAnimationPresetId": -1,
+                    "play_rate_track": {
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 7203,
+                    "source_left_trim": 0,
+                    "source_right_trim": 0,
+                    "source_total_frames": 7203,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 15375,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "propellerGuardStatus": 0,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "time_watermark": {
+                        "enableTimeWatermark": false,
+                        "timeWatermarkFormat": 1,
+                        "timeWatermarkTransparency": 100
+                    },
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/media/812889469.216158_156841791196671.MP4",
+                    "userRotateDegree": 0,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "asteroidPitchOffset": 0,
+                    "audio_setting": {
+                        "audioDetached": false,
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "preDetachVolume": 100,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "baseViewAutoApplied": false,
+                    "camera_movement": {
+                        "bottom_by_category": [
+                        ],
+                        "camera_movement_models": [
+                        ],
+                        "distance": 0.6,
+                        "fov": 1.3089969389957472,
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "view_category_filter": 1,
+                        "yaw_offset": 0
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "dashboard_setting": {
+                        "dashboardDataId": "",
+                        "dashboardDataType": 0,
+                        "dashboardSourceType": "TypeNoneData",
+                        "dashboardStyle": "",
+                        "enableDashboard": true,
+                        "supportDashboard": true
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "",
+                        "save_path": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/113 Fun Dive - Wraysbury - Dive 3/ffe850ac-3d8a-4220-bc6a-e1f09ddc078c"
+                    },
+                    "default_factor": 1,
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "effect_filter": {
+                        "externfilterId": "",
+                        "externfilterName": "",
+                        "externfilterOpacity": 70,
+                        "externfilterResourcePath": ""
+                    },
+                    "enable_user_keyframe": true,
+                    "flat_logo_watermark": {
+                        "clipAspectRatio": 8,
+                        "enableFlatLogoWatermark": false,
+                        "flatLogoWatermarkTransparency": 100,
+                        "logoWatermarkLocationType": 0,
+                        "selectedLogoWatermarkPath": "/Users/james/Documents/Insta360/Studio/Download/watermark/app/active/54/resource/insta360.png"
+                    },
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "hdrPreviewEnabled": false,
+                    "hdrPreviewUserToggled": false,
+                    "head_track": {
+                        "distance": 0.4,
+                        "fov": 1.1811122659621356,
+                        "head_track_list": [
+                        ],
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "yaw_offset": 0
+                    },
+                    "highlight_data": false,
+                    "id": "ffe850ac-3d8a-4220-bc6a-e1f09ddc078c",
+                    "inAsteroidMode": false,
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "legacy_camera_movement": false,
+                    "logo_watermark": {
+                        "enableLogoWatermark": false,
+                        "logoWatermarkCornerRadius": 0,
+                        "logoWatermarkFeather": 0,
+                        "logoWatermarkLocationType": 0,
+                        "logoWatermarkRotate": 0,
+                        "logoWatermarkSize": 30,
+                        "selectedLogoWatermarkPath": ":resource/default_logo_0.png"
+                    },
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enablePureShot": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportPureShot": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "812889857.334354_157171791197060.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "panoAnimationPresetId": -1,
+                    "play_rate_track": {
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 3986,
+                    "source_left_trim": 0,
+                    "source_right_trim": 0,
+                    "source_total_frames": 3986,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 22578,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "propellerGuardStatus": 0,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "time_watermark": {
+                        "enableTimeWatermark": false,
+                        "timeWatermarkFormat": 1,
+                        "timeWatermarkTransparency": 100
+                    },
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/media/812889857.334354_157171791197060.MP4",
+                    "userRotateDegree": 0,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "asteroidPitchOffset": 0,
+                    "audio_setting": {
+                        "audioDetached": false,
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "preDetachVolume": 100,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "baseViewAutoApplied": false,
+                    "camera_movement": {
+                        "bottom_by_category": [
+                        ],
+                        "camera_movement_models": [
+                        ],
+                        "distance": 0.6,
+                        "fov": 1.3089969389957472,
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "view_category_filter": 1,
+                        "yaw_offset": 0
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "dashboard_setting": {
+                        "dashboardDataId": "",
+                        "dashboardDataType": 0,
+                        "dashboardSourceType": "TypeNoneData",
+                        "dashboardStyle": "",
+                        "enableDashboard": true,
+                        "supportDashboard": true
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "",
+                        "save_path": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/113 Fun Dive - Wraysbury - Dive 3/488e006e-5b74-4988-a048-a7542beac5de"
+                    },
+                    "default_factor": 1,
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "effect_filter": {
+                        "externfilterId": "",
+                        "externfilterName": "",
+                        "externfilterOpacity": 70,
+                        "externfilterResourcePath": ""
+                    },
+                    "enable_user_keyframe": true,
+                    "flat_logo_watermark": {
+                        "clipAspectRatio": 8,
+                        "enableFlatLogoWatermark": false,
+                        "flatLogoWatermarkTransparency": 100,
+                        "logoWatermarkLocationType": 0,
+                        "selectedLogoWatermarkPath": "/Users/james/Documents/Insta360/Studio/Download/watermark/app/active/54/resource/insta360.png"
+                    },
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "hdrPreviewEnabled": false,
+                    "hdrPreviewUserToggled": false,
+                    "head_track": {
+                        "distance": 0.4,
+                        "fov": 1.1811122659621356,
+                        "head_track_list": [
+                        ],
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "yaw_offset": 0
+                    },
+                    "highlight_data": false,
+                    "id": "488e006e-5b74-4988-a048-a7542beac5de",
+                    "inAsteroidMode": false,
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "legacy_camera_movement": false,
+                    "logo_watermark": {
+                        "enableLogoWatermark": false,
+                        "logoWatermarkCornerRadius": 0,
+                        "logoWatermarkFeather": 0,
+                        "logoWatermarkLocationType": 0,
+                        "logoWatermarkRotate": 0,
+                        "logoWatermarkSize": 30,
+                        "selectedLogoWatermarkPath": ""
+                    },
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enablePureShot": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportPureShot": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "812890486.324153_168321791197688.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "panoAnimationPresetId": -1,
+                    "play_rate_track": {
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 1663,
+                    "source_left_trim": 0,
+                    "source_right_trim": 0,
+                    "source_total_frames": 1663,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 26564,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "propellerGuardStatus": 0,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "time_watermark": {
+                        "enableTimeWatermark": false,
+                        "timeWatermarkFormat": 1,
+                        "timeWatermarkTransparency": 100
+                    },
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/media/812890486.324153_168321791197688.MP4",
+                    "userRotateDegree": 0,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "8",
+                        "current_aspect_ratio": 8,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            8
+                        ]
+                    },
+                    "asteroidPitchOffset": 0,
+                    "audio_setting": {
+                        "audioDetached": false,
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": false,
+                        "maxFadeIn": 227,
+                        "maxFadeOut": 227,
+                        "preDetachVolume": 100,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "baseViewAutoApplied": false,
+                    "camera_movement": {
+                        "bottom_by_category": [
+                        ],
+                        "camera_movement_models": [
+                        ],
+                        "distance": 0.6,
+                        "fov": 1.3089969389957472,
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "view_category_filter": 1,
+                        "yaw_offset": 0
+                    },
+                    "camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 41.48307890152888
+                        }
+                    },
+                    "dashboard_setting": {
+                        "dashboardDataId": "",
+                        "dashboardDataType": 0,
+                        "dashboardSourceType": "TypeNoneData",
+                        "dashboardStyle": "",
+                        "enableDashboard": true,
+                        "supportDashboard": true
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "",
+                        "save_path": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/113 Fun Dive - Wraysbury - Dive 3/fde445b8-f37e-451c-8edc-e1ce4e3aa8ad"
+                    },
+                    "default_factor": 1,
+                    "dewarp_setting": {
+                        "all_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ],
+                        "aspectRatio": 8,
+                        "current_dewarp_type": {
+                            "name": "UltraWide",
+                            "value": 0
+                        },
+                        "default_dewarp_type": {
+                            "name": "MegaView",
+                            "value": 15
+                        },
+                        "fov_distance_range": {
+                            "is_max_x": false,
+                            "is_min_x": false,
+                            "max_distance": 1,
+                            "max_fov": 139.35372924804688,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false,
+                        "support_dewarp_types": [
+                            {
+                                "name": "MegaView",
+                                "value": 15
+                            },
+                            {
+                                "name": "UltraWide",
+                                "value": 0
+                            },
+                            {
+                                "name": "Dewarp",
+                                "value": 14
+                            },
+                            {
+                                "name": "Linear",
+                                "value": 2
+                            }
+                        ]
+                    },
+                    "effect_filter": {
+                        "externfilterId": "",
+                        "externfilterName": "",
+                        "externfilterOpacity": 70,
+                        "externfilterResourcePath": ""
+                    },
+                    "enable_user_keyframe": true,
+                    "flat_logo_watermark": {
+                        "clipAspectRatio": 8,
+                        "enableFlatLogoWatermark": false,
+                        "flatLogoWatermarkTransparency": 100,
+                        "logoWatermarkLocationType": 0,
+                        "selectedLogoWatermarkPath": "/Users/james/Documents/Insta360/Studio/Download/watermark/app/active/54/resource/insta360-acepro2-leica.png"
+                    },
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "hdrPreviewEnabled": false,
+                    "hdrPreviewUserToggled": false,
+                    "head_track": {
+                        "distance": 0.15,
+                        "fov": 1.1631757271899952,
+                        "head_track_list": [
+                        ],
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "yaw_offset": 0
+                    },
+                    "highlight_data": false,
+                    "id": "fde445b8-f37e-451c-8edc-e1ce4e3aa8ad",
+                    "inAsteroidMode": false,
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "legacy_camera_movement": false,
+                    "logo_watermark": {
+                        "enableLogoWatermark": false,
+                        "logoWatermarkCornerRadius": 0,
+                        "logoWatermarkFeather": 0,
+                        "logoWatermarkLocationType": 0,
+                        "logoWatermarkRotate": 0,
+                        "logoWatermarkSize": 30,
+                        "selectedLogoWatermarkPath": ":resource/default_logo_0.png"
+                    },
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enablePureShot": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": true,
+                        "supportLocalToneMapping": true,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportPureShot": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": true,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "VID_026.mp4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.8,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 41.48307890152888
+                        }
+                    },
+                    "panoAnimationPresetId": -1,
+                    "play_rate_track": {
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 455,
+                    "source_left_trim": 0,
+                    "source_right_trim": 0,
+                    "source_total_frames": 455,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 28227,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "propellerGuardStatus": 0,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "time_watermark": {
+                        "enableTimeWatermark": false,
+                        "timeWatermarkFormat": 1,
+                        "timeWatermarkTransparency": 100
+                    },
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/VID_20261004_154233_026.mp4",
+                    "userRotateDegree": 0,
+                    "viewType": 0
+                },
+                {
+                    "aspect_ratio_info": {
+                        "currentAspectRatio": "1000",
+                        "current_aspect_ratio": 1000,
+                        "supportAspectRatios": null,
+                        "support_aspect_ratios": [
+                            1000
+                        ]
+                    },
+                    "asteroidPitchOffset": 0,
+                    "audio_setting": {
+                        "audioDetached": false,
+                        "currentDenoiseType": 1,
+                        "currentFadeIn": 0,
+                        "currentFadeOut": 0,
+                        "currentMixingWeight": 50,
+                        "currentTracksDelay": -2147483648,
+                        "currentVolume": 100,
+                        "defaultTracksDelay": -2147483648,
+                        "enableDenoise": false,
+                        "enableMixing": true,
+                        "maxFadeIn": 300,
+                        "maxFadeOut": 300,
+                        "preDetachVolume": 100,
+                        "supportAudio": true,
+                        "supportDenoise": true,
+                        "supportDenoiseTypes": [
+                            1,
+                            2
+                        ],
+                        "supportMixing": false
+                    },
+                    "baseViewAutoApplied": false,
+                    "camera_movement": {
+                        "bottom_by_category": [
+                        ],
+                        "camera_movement_models": [
+                        ],
+                        "distance": 0.6,
+                        "fov": 1.3089969389957472,
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "view_category_filter": 1,
+                        "yaw_offset": 0
+                    },
+                    "camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "dashboard_setting": {
+                        "dashboardDataId": "",
+                        "dashboardDataType": 0,
+                        "dashboardSourceType": "TypeNoneData",
+                        "dashboardStyle": "",
+                        "enableDashboard": true,
+                        "supportDashboard": true
+                    },
+                    "deep_track": {
+                        "cache_path": "",
+                        "deep_track_list": [
+                        ],
+                        "original_clip_id": "",
+                        "save_path": "/Users/james/code/diving-videos/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/113 Fun Dive - Wraysbury - Dive 3/ca3937f2-8283-4b12-9c17-e82127c34211"
+                    },
+                    "default_factor": 1,
+                    "dewarp_setting": {
+                        "aspectRatio": 0,
+                        "fov_distance_range": {
+                            "is_max_x": true,
+                            "is_min_x": true,
+                            "max_distance": 1.7999999523162842,
+                            "max_fov": 178,
+                            "min_distance": 0,
+                            "min_fov": 1
+                        },
+                        "removeDistortion": false
+                    },
+                    "effect_filter": {
+                        "externfilterId": "",
+                        "externfilterName": "",
+                        "externfilterOpacity": 70,
+                        "externfilterResourcePath": ""
+                    },
+                    "enable_user_keyframe": true,
+                    "flat_logo_watermark": {
+                        "clipAspectRatio": 8,
+                        "enableFlatLogoWatermark": false,
+                        "flatLogoWatermarkTransparency": 100,
+                        "logoWatermarkLocationType": 0,
+                        "selectedLogoWatermarkPath": "/Users/james/Documents/Insta360/Studio/Download/watermark/app/active/54/resource/insta360.png"
+                    },
+                    "fps": 60,
+                    "has_set_play_rate_manually": false,
+                    "hdrPreviewEnabled": false,
+                    "hdrPreviewUserToggled": false,
+                    "head_track": {
+                        "distance": 1,
+                        "fov": 1.3089969389957472,
+                        "head_track_list": [
+                        ],
+                        "pitch_offset": 0,
+                        "roll_offset": 0,
+                        "yaw_offset": 0
+                    },
+                    "highlight_data": false,
+                    "id": "ca3937f2-8283-4b12-9c17-e82127c34211",
+                    "inAsteroidMode": false,
+                    "key_frame_track": {
+                    },
+                    "lastTrimEditTime": 0,
+                    "leftTrim": 0,
+                    "legacy_camera_movement": false,
+                    "logo_watermark": {
+                        "enableLogoWatermark": false,
+                        "logoWatermarkCornerRadius": 0,
+                        "logoWatermarkFeather": 0,
+                        "logoWatermarkLocationType": 0,
+                        "logoWatermarkRotate": 0,
+                        "logoWatermarkSize": 30,
+                        "selectedLogoWatermarkPath": ":resource/default_logo_0.png"
+                    },
+                    "media_process": {
+                        "colorAdjustAutoadjust": 0,
+                        "colorAdjustBlackpoint": 0,
+                        "colorAdjustBrightness": 0,
+                        "colorAdjustBrilliance": 0,
+                        "colorAdjustCommonMax": 100,
+                        "colorAdjustCommonMin": -100,
+                        "colorAdjustContrast": 0,
+                        "colorAdjustDefinition": 0,
+                        "colorAdjustDefinitionMin": 0,
+                        "colorAdjustExposure": 0,
+                        "colorAdjustHighlights": 0,
+                        "colorAdjustSaturation": 0,
+                        "colorAdjustShadows": 0,
+                        "colorAdjustTint": 0,
+                        "colorAdjustVibrance": 0,
+                        "colorAdjustWarmth": 0,
+                        "colorPlusStrength": 30,
+                        "colorPlusStrengthMax": 100,
+                        "colorPlusStrengthMin": 0,
+                        "enableAe": false,
+                        "enableBeautyMode": false,
+                        "enableColorAdjust": false,
+                        "enableColorPlus": false,
+                        "enableHorizontalCorrect": false,
+                        "enableLocalToneMapping": false,
+                        "enableLut": false,
+                        "enableMotionBlur": false,
+                        "enableMultiFrameDenoise": false,
+                        "enablePureShot": false,
+                        "enableSingleDenoise": false,
+                        "enableTimeLogo": false,
+                        "enableUnderWaterCorrect": false,
+                        "horizontalCorrectAngle": 0,
+                        "horizontalCorrectDefaultAngle": 0,
+                        "localToneMappingStrength": 30,
+                        "localToneMappingStrengthMax": 100,
+                        "localToneMappingStrengthMin": 0,
+                        "motionBlurEdited": false,
+                        "motionBlurStrength": 50,
+                        "motionBlurThreshold": 85,
+                        "supportAe": false,
+                        "supportColorAdjust": true,
+                        "supportColorPlus": true,
+                        "supportHorizontalCorrect": false,
+                        "supportLocalToneMapping": false,
+                        "supportLut": false,
+                        "supportMotionBlur": true,
+                        "supportPureShot": false,
+                        "supportSingleDenoise": false,
+                        "supportUnderWaterCorrect": false,
+                        "timeLogoFormat": 0,
+                        "timeLogoTransparency": 100,
+                        "underWaterStrength": 100,
+                        "underWaterStrengthMax": 100,
+                        "underWaterStrengthMin": 0,
+                        "underWaterStyle": 0
+                    },
+                    "name": "ScreenRecording_10-11-2026 23-42-30_1.MP4",
+                    "online": false,
+                    "original_camera_transform": {
+                        "distance": 0.6,
+                        "eulers": {
+                            "pitch": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "roll": {
+                                "type": 0,
+                                "value": 0
+                            },
+                            "yaw": {
+                                "type": 0,
+                                "value": 0
+                            }
+                        },
+                        "fov": {
+                            "type": 1,
+                            "value": 75
+                        }
+                    },
+                    "panoAnimationPresetId": -1,
+                    "play_rate_track": {
+                    },
+                    "popupApplyDefaultCameraTransformTips": true,
+                    "ratio": 8,
+                    "resourceId": "",
+                    "rightTrim": 0,
+                    "roughTrimmed": false,
+                    "sourceFrames": 1043,
+                    "source_left_trim": 0,
+                    "source_right_trim": 0,
+                    "source_total_frames": 1043,
+                    "srcId": "",
+                    "stab_setting": {
+                        "enableDirectionalLock": false,
+                        "enableFpv": false,
+                        "enableImmerrsionStab": false,
+                        "enablePanoFpv": false,
+                        "enableStab": false,
+                        "modifiable": true,
+                        "stabLevel": 0,
+                        "supportBoostStabLevel": false,
+                        "supportDirectionalLock": false,
+                        "supportFpv": false,
+                        "supportHighStabLevel": false,
+                        "supportPanoFpv": false,
+                        "supportStab": false
+                    },
+                    "startFrame": 28682,
+                    "state": 0,
+                    "stitching_optimization": {
+                        "enableAIStitching": false,
+                        "enableDynamicStitching": false,
+                        "enableImageFusionStitching": false,
+                        "enableOpticalFlowStitching": false,
+                        "ignoreDynamicStitching": false,
+                        "ignoreImageFusionStitching": false,
+                        "ignoreOpticalFlowStitching": false,
+                        "optimizedOffset": "",
+                        "supportAIStitching": false,
+                        "supportDynamicStitching": false,
+                        "supportImageFusionStitching": false,
+                        "supportOpticalFlowStitching": false
+                    },
+                    "stitching_setting": {
+                        "cameraAccessory": 0,
+                        "customStitchingValue": 0,
+                        "customStitchingValueMax": 0,
+                        "enableColdShoe": false,
+                        "enableCoolingShell": false,
+                        "propellerGuardStatus": 0,
+                        "supportCameraAccessory": [
+                            0
+                        ],
+                        "supportColdShoe": false,
+                        "supportCoolingShell": false,
+                        "supportCustomStitching": false,
+                        "supportPropellerGuard": false,
+                        "supportStitching": false
+                    },
+                    "subtype": 0,
+                    "supplementFrameType": "SupplementFrameTypeNormal",
+                    "supplement_frame_type": 0,
+                    "time_watermark": {
+                        "enableTimeWatermark": false,
+                        "timeWatermarkFormat": 1,
+                        "timeWatermarkTransparency": 100
+                    },
+                    "type": 1,
+                    "url": "/Volumes/LaCie/2026/October - Wraysbury/113 Fun Dive - Wraysbury - Dive 3/media/ScreenRecording_10-11-2026 23-42-30_1.MP4",
+                    "userRotateDegree": 0,
+                    "viewType": 0
+                }
+            ],
+            "id": "6133152a-64d0-4de2-b960-34e7d9beaecf",
+            "locked": false,
+            "transitions": [
+                {
+                    "defaultFrames": 30,
+                    "frames": 56,
+                    "id": "0b3b1f71-89ee-48b9-b518-13865c9664e1",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Slide Left",
+                    "nextClip": "7d157d38-9d01-4a6e-a3d1-e4fce7edd224",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/1785164031815/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/C6430DDB-446B-472C-B4DD-FAF64F1FF89D.1.videotransition",
+                    "prevClip": "c4049e61-34e6-45f8-b626-6b324141dc5f",
+                    "resourceId": "C6430DDB-446B-472C-B4DD-FAF64F1FF89D",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 46,
+                    "id": "2fd910da-fd90-46cb-9a3b-ec46577847c2",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Slide Left",
+                    "nextClip": "cf906da8-5b8e-44d7-9f5d-33fdf1d2fcd0",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/1785164031815/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/C6430DDB-446B-472C-B4DD-FAF64F1FF89D.1.videotransition",
+                    "prevClip": "7d157d38-9d01-4a6e-a3d1-e4fce7edd224",
+                    "resourceId": "C6430DDB-446B-472C-B4DD-FAF64F1FF89D",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 70,
+                    "id": "69360fea-41f8-470b-b8cb-dad994f6569d",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Slide Left",
+                    "nextClip": "ba3645dc-87fa-4705-b1e8-6a1b4f10a287",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/1785164031815/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/C6430DDB-446B-472C-B4DD-FAF64F1FF89D.1.videotransition",
+                    "prevClip": "62befbcf-7de8-4e53-bb76-f14a7905c536",
+                    "resourceId": "C6430DDB-446B-472C-B4DD-FAF64F1FF89D",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 60,
+                    "id": "7dbeb7bd-1861-43a1-9350-4cf6ab373083",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Slide Left",
+                    "nextClip": "62befbcf-7de8-4e53-bb76-f14a7905c536",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/1785164031815/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/C6430DDB-446B-472C-B4DD-FAF64F1FF89D.1.videotransition",
+                    "prevClip": "cf906da8-5b8e-44d7-9f5d-33fdf1d2fcd0",
+                    "resourceId": "C6430DDB-446B-472C-B4DD-FAF64F1FF89D",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 48,
+                    "id": "a5675b54-501b-4404-9c6a-b9c058b84954",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Slide Left",
+                    "nextClip": "488e006e-5b74-4988-a048-a7542beac5de",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/1785164031815/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/C6430DDB-446B-472C-B4DD-FAF64F1FF89D.1.videotransition",
+                    "prevClip": "ffe850ac-3d8a-4220-bc6a-e1f09ddc078c",
+                    "resourceId": "C6430DDB-446B-472C-B4DD-FAF64F1FF89D",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 44,
+                    "id": "b0ca3f75-a162-4201-adca-2e23c57fecc4",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Slide Left",
+                    "nextClip": "9dc1e499-63d2-4f8b-a0ce-ed4e073fc401",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/1785164031815/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/C6430DDB-446B-472C-B4DD-FAF64F1FF89D.1.videotransition",
+                    "prevClip": "ba3645dc-87fa-4705-b1e8-6a1b4f10a287",
+                    "resourceId": "C6430DDB-446B-472C-B4DD-FAF64F1FF89D",
+                    "state": 0,
+                    "type": 2
+                },
+                {
+                    "defaultFrames": 30,
+                    "frames": 60,
+                    "id": "f251a3f1-9c20-4856-b53b-0e6777a6ad3f",
+                    "maximumFrames": 120,
+                    "minimumFrames": 12,
+                    "name": "Slide Left",
+                    "nextClip": "ffe850ac-3d8a-4220-bc6a-e1f09ddc078c",
+                    "path": "/Users/james/Documents/Insta360/Studio/Download/transition/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/1785164031815/C6430DDB-446B-472C-B4DD-FAF64F1FF89D/C6430DDB-446B-472C-B4DD-FAF64F1FF89D.1.videotransition",
+                    "prevClip": "9dc1e499-63d2-4f8b-a0ce-ed4e073fc401",
+                    "resourceId": "C6430DDB-446B-472C-B4DD-FAF64F1FF89D",
+                    "state": 0,
+                    "type": 2
+                }
+            ],
+            "type": 0,
+            "visible": true,
+            "z": 0
+        }
+    ],
+    "watermarkPanelApplyAll": true,
+    "watermarkPanelConfigJson": "{\"flat_logo_watermark\":{\"enabled\":false,\"position\":0,\"style_path\":\"\",\"transparency\":100},\"logo_watermark\":{\"corner_radius\":0,\"enabled\":false,\"feather\":0,\"position\":0,\"rotate\":0,\"size\":30,\"style_path\":\"\"},\"time_watermark\":{\"enabled\":false,\"format\":1,\"transparency\":100},\"version\":1}"
+}
