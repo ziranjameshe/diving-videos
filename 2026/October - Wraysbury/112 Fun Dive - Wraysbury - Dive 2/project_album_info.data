@@ -1,0 +1,104 @@
+{
+    "album_tree": {
+        "nodes": [
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/812887936.19572_72321791195138.MP4",
+                "name": "812887936.19572_72321791195138.MP4",
+                "node_uuid": "67e58e6c-16f7-4564-b955-b6be20670c08",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/812888258.285018_83901791195460.MP4",
+                "name": "812888258.285018_83901791195460.MP4",
+                "node_uuid": "66da933e-210d-4d74-922e-1ca3d357257b",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/ScreenRecording_10-11-2026 20-07-10_1.MP4",
+                "name": "ScreenRecording_10-11-2026 20-07-10_1.MP4",
+                "node_uuid": "d85fcffe-6532-4387-b89b-4bf1addf2fbb",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/VID_20261004_122156_014.mp4",
+                "name": "VID_014.mp4",
+                "node_uuid": "47951043-92aa-479b-9622-5e7af4a6b41f",
+                "parent_uuid": "",
+                "type": "Footage"
+            },
+            {
+                "media_card_uuid": "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/VID_20261004_125601_017.mp4",
+                "name": "VID_017.mp4",
+                "node_uuid": "9c937566-7010-456e-a82b-dd4a168ed60a",
+                "parent_uuid": "",
+                "type": "Footage"
+            }
+        ],
+        "root_uuids": [
+            "67e58e6c-16f7-4564-b955-b6be20670c08",
+            "66da933e-210d-4d74-922e-1ca3d357257b",
+            "47951043-92aa-479b-9622-5e7af4a6b41f",
+            "9c937566-7010-456e-a82b-dd4a168ed60a",
+            "d85fcffe-6532-4387-b89b-4bf1addf2fbb"
+        ],
+        "version": 1
+    },
+    "media_card_snapshots": {
+        "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/VID_20261004_122156_014.mp4": {
+            "create_time": "2026-10-04T12:21:56",
+            "display_name": "VID_014.mp4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "remark_name": "",
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/VID_20261004_122156_014.mp4"
+        },
+        "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/VID_20261004_125601_017.mp4": {
+            "create_time": "2026-10-04T12:56:01",
+            "display_name": "VID_017.mp4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "remark_name": "",
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/VID_20261004_125601_017.mp4"
+        },
+        "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/812887936.19572_72321791195138.MP4": {
+            "create_time": "2026-10-05T11:12:18",
+            "display_name": "812887936.19572_72321791195138.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "remark_name": "",
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/812887936.19572_72321791195138.MP4"
+        },
+        "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/812888258.285018_83901791195460.MP4": {
+            "create_time": "2026-10-05T11:17:40",
+            "display_name": "812888258.285018_83901791195460.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "remark_name": "",
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/812888258.285018_83901791195460.MP4"
+        },
+        "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/ScreenRecording_10-11-2026 20-07-10_1.MP4": {
+            "create_time": "2026-10-11T19:07:10",
+            "display_name": "ScreenRecording_10-11-2026 20-07-10_1.MP4",
+            "is_dng_group": false,
+            "is_photo_group": false,
+            "remark_name": "",
+            "source": "local",
+            "uuid": "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/ScreenRecording_10-11-2026 20-07-10_1.MP4"
+        }
+    },
+    "tab_media_uuids": [
+        "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/VID_20261004_122156_014.mp4",
+        "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/ScreenRecording_10-11-2026 20-07-10_1.MP4",
+        "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/812888258.285018_83901791195460.MP4",
+        "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/media/812887936.19572_72321791195138.MP4",
+        "/Volumes/LaCie/2026/October - Wraysbury/112 Fun Dive - Wraysbury - Dive 2/VID_20261004_125601_017.mp4"
+    ],
+    "version": 1
+}
